@@ -1,0 +1,33 @@
+$black: #000000;
+$white: #ffffff;
+$bg-grey: #F5F5F5;
+$light-grey: #C2C4C7;
+$lighter-grey: #FAF8F8;
+$dark-grey: #707070;
+$darker-grey: #535863;
+$purple: #780a6e;
+$purple-secondary: #6E1E6A;
+$purple-select: #9D4595;
+$light-green: #65AF05;
+$dark-green: #377702;
+$green: #328D04;
+$navy: #003459;
+$light-blue: #509CD1;
+$mustard: #DBAD04;
+
+$white: #fff;
+
+// ********************
+// Mixins
+// ********************
+$baseSize: 16px;
+
+html {
+  font-size: $baseSize;
+}
+
+@function rem($size) {
+  $remSize: $size / $baseSize;
+  @return #{$remSize}rem;
+}
+

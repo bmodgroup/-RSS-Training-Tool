@@ -1,0 +1,455 @@
+{
+  "home": {
+    "disclaimerWarning": {
+      "disclaimer": "Ce site est destiné aux professionnels de la santé canadiens à titre informatif seulement.<br/><br/>Veuillez confirmer que vous êtes un professionnel de la santé canadien autorisé afin d’utiliser <strong>l’outil de formation sur l’échelle de gravité du rachitisme d’Ultragenyx</strong>.",
+      "yes": "Je suis un professionnel de la santé canadien",
+      "yesalt": "Professionnel de la santé canadien",
+      "no": "Je ne suis pas un professionnel de la santé canadien",
+      "noalt": "Pas un professionnel de la santé canadien",
+      "leaving": "Vous quittez maintenant le site Internet de <strong>formation RSS</strong>.",
+      "continue": "Passer au site Internet d’Ultragenyx"
+    },
+    "heading": "Outil de formation RSS",
+    "subheading": "Un outil pédagogique pour apprendre à évaluer avec précision les patients atteints de rachitisme hypophosphatémique lié à l’X (XLH) à l’aide de l’échelle de gravité du rachitisme (RSS pour Rickets Severity Score).<sup>1</sup>",
+    "audioClips": "Avec des clips audio et un didacticiel guidé.",
+    "playPause": "Faites jouer et mettez sur pause les enregistrements en appuyant sur l’icône audio.",
+    "homeNav": {
+      "about": {
+        "title": "<span>En savoir plus</span> sur l'échelle RSS",
+        "text": "Découvrez <span>l’échelle de gravité du rachitisme</span> et comment l’utiliser chez les patients atteints de XLH."
+      },
+      "tutorial": {
+        "title": "<span>Exercice</span> d’évaluation",
+        "text": "Suivez un didacticiel sur l'échelle RSS étape par étape, puis exercez-vous à évaluer des images individuelles."
+      },
+      "cases": {
+        "title": "<span>Évaluer</span> des cas cliniques",
+        "text": "Rassemblez tous les éléments et testez vos connaissances de l'échelle RSS avec des cas cliniques."
+      },
+      "calculator": {
+        "title": "Calculateur RSS",
+        "text": "Utilisez ce calculateur pour générer des documents sur l'échelle RSS pour vos patients."
+      }
+    },
+    "footerDisclaimer": "Avis de non-responsabilité : Cet outil est destiné à des fins éducatives seulement et n’est pas destiné à un usage diagnostique. Aucune donnée saisie sur ce site ne sera enregistrée. Toutes les données seront perdues lors de l’actualisation de la page."
+  },
+  "about": {
+    "title": "Outil de formation RSS : À propos de l’échelle de gravité du rachitisme (RSS)",
+    "introduction": {
+      "tabTitle": "Introduction",
+      "rickets": {
+        "header": "L’échelle de gravité du rachitisme (RSS)",
+        "paragraph1": "L'échelle RSS est une méthode quantitative qui utilise des radiographies pour évaluer la gravité du rachitisme au niveau des poignets et des genoux. Initialement validée dans un contexte de rachitisme nutritionnel, l’échelle est basée sur la gravité",
+        "paragraph2": " et la proportion de la plaque de croissance qui est touchée. Il s’agit d’une échelle de 10 points, pour laquelle 10 représente les modifications radiographiques dues au rachitisme les plus graves et 0 représente l’absence de modifications.<sup>1</sup>",
+        "figcaption": "Figure 1. Exemples illustrés des différentes valeurs de l’échelle RSS pour chaque os du poignet et du genou. Notez que ces valeurs ne sont pas représentatives de l’ensemble du poignet ou du genou, mais de l’anomalie telle qu’elle apparaît dans chaque os.<sup>2</sup>",
+        "tip": "Conseil :",
+        "tipText": "Cette illustration est une référence utile à consulter lorsque vous évaluez des images. Dans les sections Exercice d’évaluation et Cas cliniques, appuyez simplement sur le bouton Guide d’évaluation pour l’afficher pendant que vous évaluez une radiographie."
+      },
+      "hypophosphatemicRickets": {
+        "header": "Rachitisme hypophosphatémique lié à l’X (XLH)<sup>1</sup>",
+        "paragraph1": "La XLH est une forme héréditaire de rachitisme causée par des mutations entraînant des pertes de fonction du gène <em>PHEX</em> et qui entraînent des taux circulants élevés du <em>facteur de croissance des fibroblastes 23</em> (FGF23).",
+        "paragraph2": "Bien que la gravité et la durée du rachitisme varient considérablement du rachitisme XLH au rachitisme nutritionnel, les caractéristiques radiographiques au niveau de la plaque de croissance sont similaires dans les deux types d’affections, ce qui a permis de valider l’échelle RSS pour le rachitisme XLH. L’échelle RSS est liée aux taux de phosphatase alcaline sérique (ALP), un marqueur biochimique de l’activité rachitique, et peut être utilisée pour évaluer la réponse radiographique au traitement du rachitisme nutritionnel ou XLH.",
+        "paragraph3": "Il a été signalé que pour le rachitisme XLH, les valeurs rapportées sur l’échelle RSS variaient de 0 à 4.5; cependant, malgré la plage RSS plus étroite observée chez les patients atteints de XLH, la fiabilité inter- et intra-évaluateur est similaire à celle signalée pour le rachitisme nutritionnel. Il a été démontré que les patients atteints de rachitisme XLH qui avaient un score RSS initial de 1.5 ou plus présentaient une maladie osseuse hypophosphatémique plus grave, y compris des taux plus élevés de phosphatase alcaline et des altérations plus importantes des résultats cliniques par rapport aux patients qui avaient un score de référence à l’échelle RSS inférieur à&nbsp;1.5."
+      }
+    },
+    "usingTheRss": {
+      "tabTitle": "Utilisation de l’échelle RSS",
+      "header": "Utilisation de l’échelle RSS<sup>1</sup>",
+      "paragraph1p1": "L’échelle RSS avance par incréments d’un demi-point de 0 (aucun rachitisme) à 10 (rachitisme le plus grave) et permet d’évaluer les radiographies individuelles sans référencer aucune image antérieure à des fins de comparaison. Pour déterminer le score global d’un patient à un moment donné, quatre radiographies sont nécessaires : une image de chaque poignet et de chaque genou. Les images de gauche et de droite sont ensuite comparées pour déterminer le côté qui présente les signes les plus graves de rachitisme, et le côté le plus touché est alors utilisé pour l’évaluation. Les indicateurs utilisés pour déterminer la gravité rachitique comprennent",
+      "paragraph1p2": "et",
+      "paragraph1p3": "Ces caractéristiques sont évidentes aux",
+      "paragraph1p4": "des os rachitiques.",
+      "paragraph2": "Le radius et le cubitus du poignet le plus sévèrement atteint sont chacun notés par incréments d’un demi-point et additionnés pour donner un score total du poignet. Le fémur et le tibia du genou le plus sévèrement atteint sont chacun notés par incréments d’un point et sont additionnés pour donner un score total du genou. Pour le genou, un facteur multiplicateur de 0.5 est attribué à l’os si tout au plus 1 condyle ou plateau est atteint. Si les deux condyles ou plateaux sont atteints, un multiplicateur de 1,0 est attribué. Le score maximum pour le poignet est de 4 et le score maximum pour le genou est de 6. Une fois que le poignet et le genou sont évalués, ces valeurs sont additionnées pour donner le score total du patient à l’échelle RSS."
+    },
+    "wristScoring": {
+      "tabTitle": "Score pour le poignet",
+      "header": "Score pour le poignet",
+      "paragraph1": "Les anomalies rachitiques se présentent différemment au niveau du radius et du cubitus. Les figures ci-dessous fournissent des images qui représentent le mieux les caractéristiques anormales qui contribuent au score sur l'échelle RSS pour chaque os.",
+      "header2": "Anomalies au niveau du radius",
+      "paragraph2": "Pour des exemples radiographiques du radius avec des scores de 0 à 1.5, reportez-vous à la figure 1 ci-dessous. Un score de 2,0 pour le radius n’est généralement pas observé chez les patients atteints de rachitisme XLH.*",
+      "header3": "Radius",
+      "radius0": {
+        "header": "0",
+        "text1": "Plaque de croissance normale sans modifications attribuables au rachitisme"
+      },
+      "radius05": {
+        "header": "0.5",
+        "text1": "de",
+        "text2": "sans aspect frangé ni irrégularité"
+      },
+      "radius1": {
+        "header": "1",
+        "text1": "Plaque de croissance élargie, irrégularité de",
+        "text2": "mais sans concavité cupuliforme"
+      },
+      "radius15": {
+        "header": "1.5",
+        "text1": "Concavité métaphysaire partielle ou aspect frangé incomplet de"
+      },
+      "radius2": {
+        "header": "2",
+        "text1": "Concavité métaphysaire avec bordure frangée"
+      },
+      "figcaption1": "Figure 1 : Anomalies rachitiques au radius, de la moins grave (0) à la plus grave&nbsp;(2).",
+      "figcaption11": "*L’image montrée du radius avec un score de 2 provient d’un patient souffrant de rachitisme nutritionnel causé par une carence en vitamine D, car ce score n’est généralement pas observé chez les patients atteints de rachitisme XLH.",
+      "header4": "Anomalies au niveau du cubitus",
+      "paragraph3": "Pour des exemples radiographiques du cubitus avec des scores 0 à 2, reportez-vous à la figure 2 ci-dessous.",
+      "header5": "Cubitus",
+      "ulna0": {
+        "header": "0",
+        "text1": "Plaque de croissance normale sans modifications attribuables au rachitisme"
+      },
+      "ulna05": {
+        "header": "0.5",
+        "text1": "de",
+        "text2": "sans aspect frangé ni irrégularité"
+      },
+      "ulna1": {
+        "header": "1",
+        "text1": "Plaque de croissance élargie, irrégularité de",
+        "text2": "mais sans concavité cupuliforme"
+      },
+      "ulna15": {
+        "header": "1.5",
+        "text1": "Concavité métaphysaire partielle ou aspect frangé incomplet de"
+      },
+      "ulna2": {
+        "header": "2",
+        "text1": "Concavité métaphysaire avec bordure frangée"
+      },
+      "figcaption2": "Figure 2 : Anomalies rachitiques au niveau du cubitus, de la moins grave (0) à la plus grave&nbsp;(2).<br/> <strong>Conseil :</strong> Cette figure est une référence utile lorsque vous évaluez des radiographies. Dans les sections Exercice d’évaluation et Cas cliniques, appuyez simplement sur le bouton Guide d’évaluation pour l’afficher pendant que vous évaluez une radiographie."
+    },
+    "kneeScoring": {
+      "tabTitle": "Score pour le genou",
+      "header": "Score pour le genou",
+      "introduction": "Les anomalies rachitiques se présentent différemment au niveau du fémur et du tibia. Les figures ci-dessous fournissent des images qui représentent le mieux les caractéristiques anormales qui contribuent au score sur l'échelle RSS pour chaque os. Veuillez noter que pour le fémur et le tibia, les scores associés à chaque image ne sont pas représentatifs de l’ensemble du score osseux. Ces scores ne sont représentatifs que de l’anomalie indiquée par la flèche sur chaque image. Pour déterminer l’ensemble du score osseux, les deux condyles doivent être pris en compte et le multiplicateur&nbsp;approprié choisi.",
+      "femur": {
+        "header": "Anomalies au niveau du fémur",
+        "text1": "Pour des exemples radiographiques du fémur avec des scores de 0 à 3, reportez-vous à la figure 3 ci-dessous.",
+        "header2": "Fémur",
+        "figcaption": "Figure 3 : Anomalies rachitiques au niveau du fémur, de la moins grave (0) à la plus grave&nbsp;(3)."
+      },
+      "tibia": {
+        "header": "Anomalies au niveau du tibia",
+        "text1": "Pour des exemples radiographiques du tibia avec des scores de 0 à 2, reportez-vous à la figure 4 ci-dessous. Des scores de 3 pour le tibia ne sont généralement pas observés chez les patients atteints de rachitisme XLH.*",
+        "header2": "Tibia",
+        "figcaption": "Figure 4 : Anomalies rachitiques au niveau du tibia, de la moins grave (0) à la plus grave&nbsp;(3).",
+        "figcaption2": "*L’image montrée du tibia avec un score de 3 provient d’un patient souffrant de rachitisme nutritionnel causé par une carence en vitamine D, car ce score n’est généralement pas observé chez les patients atteints de rachitisme XLH."
+      },
+      "imgText": {
+        "img0": {
+          "header": "0",
+          "text1": "Plaque de croissance normale sans modifications attribuables au rachitisme"
+        },
+        "img1": {
+          "header": "1",
+          "text1": "partielle",
+          "text2": "bordure métaphysaire lisse visible"
+        },
+        "img2": {
+          "header": "2",
+          "text1": "partielle",
+          "text2": "bordure métaphysaire lisse NON visible"
+        },
+        "img3": {
+          "header": "3",
+          "text1": "complète",
+          "text2": "l’épiphyse apparaît largement séparée de la métaphyse distale"
+        }
+      },
+      "table": {
+        "header": "Tableau 1 : Définitions des multiplicateurs pour le fémur et le tibia",
+        "subheader1": "0.5",
+        "text1": "Un condyle ou plateau affecté tout au plus",
+        "subheader2": "1",
+        "text2": "Deux condyles ou plateaux affectés",
+        "footnote": "(Score du fémur x multiplicateur) + (score du tibia x multiplicateur) = score total pour le genou",
+        "tip": "<strong>Conseil :</strong> Ce tableau est une excellente référence à avoir à portée de main lorsque vous faites votre évaluation. Dans les sections Exercice d’évaluation et Cas cliniques, appuyez simplement sur le bouton Guide d’évaluation pour l’afficher à côté de la radiographie que vous évaluez."
+      },
+      "continue": "Passer au didacticiel"
+    }
+  },
+  "popOver": {
+    "metaphysealMargin": {
+      "title": "Bordure métaphysaire",
+      "text": "bordures métaphysaires",
+      "text2": "bordure métaphysaire",
+      "content": "L’arrête ou la limite de la métaphyse"
+    },
+    "metaphysealCupping": {
+      "title": "Élargissement cupuliforme métaphysaire",
+      "text": "élargissement cupuliforme métaphysaire",
+      "content": "Concavité de la métaphyse qui lui donne un aspect en forme de cupule<sup>3</sup>"
+    },
+    "metaphysealFraying": {
+      "title": "Métaphyse présentant un aspect frangé",
+      "text": "métaphyse présentant un aspect frangé",
+      "content": "Irrégularité de la métaphyse distale normalement lisse<sup>4</sup>"
+    },
+    "lucency": {
+      "title": "Radiotransparence",
+      "text": "radiotransparence",
+      "content": "Zones plus sombres sur la radiographie osseuse qui résultent d’une diminution de la densité osseuse, permettant à plus de rayons X de traverser l’os<sup>5</sup>"
+    },
+    "widening": {
+      "title": "Élargissement de la plaque de croissance",
+      "text": "élargissement de la plaque de croissance",
+      "content": "Une augmentation de la distance entre la métaphyse et l’épiphyse"
+    }
+  },
+  "tutorial": {
+    "feedback": {
+      "thatsRight": "C’est exact",
+      "notQuite": "Pas tout à fait",
+      "correctScore": "le score correct est"
+    },
+    "intro": {
+      "title": "Outil de formation RSS : Didacticiel et exercice d’évaluation",
+      "header": "Didacticiel",
+      "skip": "Passer le didacticiel",
+      "welcome": "Bienvenue sur le site de formation RSS!",
+      "welcomeP1": "Avant de commencer votre entraînement à évaluer des images, passez en revue pas à pas un cas clinique avec ce didacticiel. Découvrez sur quels indicateurs visuels vous concentrer et comment calculer les scores sur l'échelle RSS du poignet, du genou et totaux pour vos patients.",
+      "welcomeP2": "Seuls un poignet et un genou sont utilisés pour calculer le score total de l'échelle RSS d’un patient, vous devrez donc identifier quel poignet et quel genou présentent les indications les plus graves de rachitisme XLH avant d’attribuer des scores. <strong>Bien qu’il existe plusieurs façons d’obtenir le même score total à l’échelle RSS lors de l’évaluation d’un poignet, d’un genou ou d’un patient, il est impératif que les scores et multiplicateurs osseux individuels soient correctement sélectionnés.</strong> Les sélections correctes seront surlignées en vert lorsque vous appuyez sur le bouton Vérifier la réponse.",
+      "tipsHeader": "Conseils utiles",
+      "tipsIconTitle": "Pour les poignets et les genoux, concentrez votre attention sur la lame épiphysaire, ou la plaque de croissance, et la partie de la métaphyse directement adjacente.",
+      "tipsClick": "Cliquez sur",
+      "tipsHover": "Placez votre curseur sur",
+      "tipsExtraTips": "cette icône afin de voir des conseils supplémentaires pour effectuer une évaluation tout au long du didacticiel.",
+      "tipsTryNow": "Essayez-le maintenant!",
+      "tipsAudio": "Cliquez sur cette icône pour entendre les commentaires des experts reconnus tout au long du didacticiel.",
+      "tipsScoringGuide": "Cliquez sur cette icône pour voir les descriptions de score avec des illustrations.",
+      "tipsAudioInstructions": "Ce didacticiel nécessite un système audio. Veuillez vous assurer que votre système audio est activé<br> avant de continuer."
+    },
+    "page2": {
+      "instructions1": "Commençons par évaluer le poignet.",
+      "instructions2": "Sélectionnez le poignet avec les signes les plus graves de rachitisme XLH.",
+      "info": "Recherchez des zones radiotransparentes, l’irrégularité de la bordure métaphysaire, l’élargissement de la plaque de croissance et toute concavité cupuliforme.",
+      "feedbackText": "Dans ce cas, le poignet gauche montre des signes plus graves de rachitisme XLH. Il y a davantage de radiotransparence dans le radius et le cubitus du poignet gauche."
+    },
+    "page3": {
+      "instructions1": "Maintenant, nous allons évaluer le radius et le cubitus séparément et additionner leurs scores pour calculer le&nbsp;score total du poignet.",
+      "info": "Reportez-vous souvent au Guide d’évaluation pour identifier les scores de chaque image, en particulier pour les images qui semblent sur ou sous-exposées.",
+      "feedbackText": "Le radius affiche une radiotransparence au niveau de la bordure métaphysaire, mais il présente une bordure lisse sans aspect frangé ni irrégularité, il est donc noté 0.5. Le cubitus a une plaque de croissance élargie et la bordure métaphysaire présente une irrégularité, mais ne montre pas de signes de concavité cupuliforme, il est donc noté 1. En additionnant ces deux scores, nous obtenons un score total de 1.5 pour le poignet.",
+      "step1": "Étape 1 : Score pour le radius",
+      "step2": "Étape 2 : Score pour le cubitus",
+      "step3": "Étape 3 : Calculer le&nbsp;score total du poignet"
+    },
+    "page4": {
+      "instructions1": "Maintenant que nous avons un score total pour le poignet, passons au genou.",
+      "instructions2": "Identifiez le genou qui présente les signes les plus graves de rachitisme XLH.",
+      "info": "Comme pour le poignet, recherchez les zones de radiotransparence, l’irrégularité de la bordure métaphysaire et l’élargissement de la plaque de croissance.",
+      "feedbackText": "Dans ce cas, les deux genoux présentent un niveau de gravité de rachitisme XLH similaire. Pour les besoins du didacticiel, nous allons évaluer le genou droit."
+    },
+    "page5": {
+      "instructions1": "Commencez par évaluer le fémur et sélectionnez le multiplicateur approprié. Ensuite, faites de même pour le tibia et additionnez les scores des deux os pour obtenir un score total du genou.",
+      "info": "Les caractéristiques clés de chaque score de gravité doivent toujours être discernables, même avec une certaine variation dans l’exposition de l’image. N’oubliez pas de vous reporter au Guide d’évaluation.",
+      "feedbackText": "Les deux condyles du fémur présentent une radiotransparence partielle, ce qui signifie que le score de 1 s’applique aux deux condyles. Par conséquent, notre multiplicateur pour le fémur est de 1. En revanche, un seul condyle du tibia présente une radiotransparence partielle, notre score de 1 sera donc multiplié par 0.5. Cela nous donnera un score de 0.5 pour le tibia. En additionnant les scores du fémur et du tibia, nous avons un score total de 1.5 pour le genou.",
+      "step1": "Étape 1 : Évaluez le fémur",
+      "step2": "Étape 2 : Sélectionnez le multiplicateur",
+      "step3": "Étape 3 : Évaluez le tibia",
+      "step4": "Étape 4 : Sélectionnez le multiplicateur",
+      "step5": "Étape 5 : Calculez le&nbsp;score total pour le genou"
+    },
+    "page6": {
+      "instructions1": "Le score global à l'échelle RSS du patient est calculé en additionnant le score total du poignet et le score total du genou. Dans cet exemple, un score du poignet de 1.5 et un score du genou de 1.5 sont additionnés pour nous donner un score global sur l'échelle RSS du patient de&nbsp;3,0.",
+      "instructions2": "Bon travail! Vous avez terminé le didacticiel de formation RSS!",
+      "continue": "Continuer les exercices"
+    },
+    "warning": {
+      "question": "Êtes-vous sûr(e) de vouloir mettre fin à votre exercice?",
+      "reset": "Toutes les images seront réinitialisées.",
+      "yes": "Oui, j’ai terminé le didacticiel",
+      "no": "Non, je veux continuer les exercices"
+    }
+  },
+  "practice": {
+    "title": "Outil de formation RSS : Didacticiel et exercice d’évaluation",
+    "header": "Exercice d’évaluation",
+    "back": "Retour au didacticiel",
+    "wrist": "Poignet",
+    "knee": "Genou",
+    "wristPage1": "Dans ce cas, des bordures claires et dures sont visibles à la fois sur le radius et le cubitus. Aucune région de radiotransparence ou d’irrégularité n’est présente.",
+    "wristPage2": "Une région de radiotransparence est visible dans le cubitus, mais sans aspect frangé ni irrégularité. Notez la petite quantité d’irrégularité sur le radius latéral. Elle est suffisamment petite pour que le radius puisse être noté 0 ou 0.5 dans ce cas.",
+    "wristPage3": "Il y a une zone de radiotransparence dans le radius, mais la bordure est toujours nette et droite. Le cubitus présente une certaine concavité, mais elle n’est pas assez grave pour qu’il soit noté 2.",
+    "wristPage4": "La radiotransparence est apparente sur le radius latéral. Le cubitus présente une concavité cupuliforme et la métaphyse un aspect frangé, et pourrait être noté 1.5 ou 2.",
+    "wristPage5": "Ici, le radius présente une radiotransparence, tout comme le cubitus avec une concavité et un aspect frangé supplémentaires.",
+    "kneePage1": "Il n’y a aucun signe de rachitisme dans ce genou. Aucune radiotransparence ou aucun élargissement de la plaque de croissance n’est observé et les bordures métaphysaires du fémur et du tibia sont clairement définies.",
+    "kneePage2": "Une radiotransparence partielle est observée sur le condyle médial du fémur et du tibia, de sorte que les deux scores de 1,0 sont multipliés par 0.5.",
+    "kneePage3": "Le fémur médial présente une radiotransparence et une bordure lisse n’est pas visible. Le condyle latéral du fémur n’est pas affecté, le score médial est donc multiplié par 0.5. Comme pour le fémur, un seul condyle du tibia est atteint, présentant une radiotransparence partielle, mais avec une bordure lisse et bien visible.",
+    "kneePage4": "Le fémur et le tibia présentent tous deux une radiotransparence partielle aux bordures de chaque condyle.",
+    "kneePage5": "Les principales caractéristiques ici sont les bordures. Le fémur et le tibia présentent tous deux une radiotransparence et des bordures irrégulières des métaphyses."
+  },
+  "practiceCase": {
+    "wristImage": "Image du poignet",
+    "kneeImage": "Image du genou",
+    "of": "sur",
+    "info": "N’oubliez pas que vous pouvez afficher le Guide d’évaluation pour une comparaison visuelle à tout moment en appuyant sur le bouton sous l’image!",
+    "wristInstruction": "Évaluez le radius et le cubitus séparément et additionnez les scores pour obtenir le score total pour le poignet.",
+    "kneeInstruction": "Commencez par évaluer le fémur et le tibia séparément, puis sélectionnez les multiplicateurs appropriés pour chacun. Les multiplicateurs ne seront disponibles qu’après la sélection du score pour le fémur et le tibia. Additionnez les produits pour le fémur et le tibia pour obtenir le score total pour le genou.",
+    "toKnee": "Passer à l’exercice pour le genou",
+    "toPatient": "Passer aux cas cliniques",
+    "thatsRight": "Oui, c’est exact!",
+    "noNotQuite": "Non, pas tout à fait.",
+    "answersHighlighted": "Les réponses sont surlignées en vert ci-dessous.",
+    "wristAssessment": "Évaluation du poignet",
+    "kneeAssessment": "Évaluation du genou",
+    "assessmentCheck": "Vérification de l’évaluation"
+  },
+  "cases": {
+    "title": "Outil de formation RSS : Cas cliniques",
+    "patient": "Patient",
+    "of": "sur",
+    "conclusion": "Conclusion",
+    "subheader": "Évaluez le poignet le plus gravement atteint et le genou le plus gravement atteint, comme indiqué par les cases vertes.",
+    "greatJob": "Bon travail!",
+    "instructions1": "Vous avez terminé tous les exemples de l’outil de&nbsp;formation RSS.",
+    "instructions2": "N’oubliez pas de consulter le calculateur RSS, conçu pour vous aider à évaluer et à créer des documents sur l'échelle RSS pour vos patients.",
+    "tryNow": "Essayez-le maintenant"
+  },
+  "patientCase": {
+    "assessmentCheck": "Vérification de l’évaluation",
+    "wristAssessment": "Évaluation du poignet",
+    "kneeAssessment": "Évaluation du genou",
+    "thatsRight": "Oui, c’est exact!",
+    "noNotQuite": "Non, pas tout à fait.",
+    "answersHighlighted": "Les réponses sont surlignées en vert.",
+    "completeGrade": "Veuillez terminer l’évaluation"
+  },
+  "calculator": {
+    "title": "Outil de formation RSS : Calculateur RSS",
+    "header": "Calculateur RSS",
+    "intro": "Calculez le score sur l'échelle RSS de votre patient et générez des documents en imprimant le score calculé en format PDF. Tout d’abord, choisissez le poignet et le genou les plus gravement atteints pour les évaluer, puis sélectionnez les scores appropriés pour chaque os, ainsi que les multiplicateurs pour le fémur et le tibia.",
+    "generatePDF": "Générer un document PDF",
+    "disclaimer": "Avis de non-responsabilité : Aucune donnée saisie sur ce site ne sera enregistrée. Toutes les données seront perdues lors de l’actualisation de la page.",
+    "datestamp": "Date de création :"
+  },
+  "feedback": {
+    "buttonLabel": "Vérifier la réponse",
+    "tooltipText": "Veuillez sélectionner une image",
+    "score": "Veuillez sélectionner un score",
+    "hoverToZoom": "Survolez pour agrandir",
+    "tapToZoom": "Appuyez pour agrandir",
+    "download": "Téléchargez le guide de l'utilisateur",
+    "userGuide": "pdfs/RSS_Training_Tool_User_Guide_fr.pdf"
+  },
+  "assessment": {
+    "kneeTotal": "Total genou",
+    "wristTotal": "Total poignet",
+    "kneeCalc": "(Fémur x multiplicateur) + (tibia x multiplicateur) = score total pour le genou",
+    "wristCalc": "Radius + cubitus = score total pour le poignet",
+    "totalKneeScore": "Score total<br/>pour le genou",
+    "totalWristScore": "Score total<br/>pour le poignet",
+    "totalPatientRSS": "Score total<br/>sur l’échelle RSS<br/>pour le patient"
+  },
+  "scoreInput": {
+    "multiplier": "Multiplicateur",
+    "femur": "Fémur",
+    "radius": "Radius",
+    "tibia": "Tibia",
+    "ulna": "Cubitus",
+    "point5": "0.5",
+    "onePoint5": "1.5"
+  },
+  "scoringGuides": {
+    "header": "Guide d’évaluation",
+    "knee": {
+      "header": "Définitions du score du genou pour le fémur et le tibia<sup>1</sup>",
+      "imgText": {
+        "img0": {
+          "header": "0",
+          "text1": "Plaque de croissance normale sans modifications attribuables au rachitisme"
+        },
+        "img1": {
+          "header": "1",
+          "text1": "Radiotransparence partielle, bordure lisse de la métaphyse visible"
+        },
+        "img2": {
+          "header": "2",
+          "text1": "Radiotransparence partielle, bordure lisse de la métaphyse NON visible"
+        },
+        "img3": {
+          "header": "3",
+          "text1": "Radiotransparence complète, l’épiphyse apparaît largement séparée de la métaphyse distale"
+        }
+      },
+      "table": {
+        "header": "Définitions des multiplicateurs pour le fémur et le tibia",
+        "subheader1": "0.5",
+        "text1": "Un condyle ou plateau affecté tout au plus",
+        "subheader2": "1",
+        "text2": "Deux condyles ou plateaux affectés",
+        "footnote": "(Score du fémur x multiplicateur) + (score du tibia x multiplicateur) =<br>score total pour le genou"
+      }
+    },
+    "wrist": {
+      "header": "Définitions du score du poignet pour le radius et le cubitus<sup>1</sup>",
+      "imgText": {
+        "img0": {
+          "header": "0",
+          "text1": "Plaque de croissance normale sans modifications attribuables au rachitisme"
+        },
+        "img05": {
+          "header": "0.5",
+          "text1": "Radiotransparence au niveau de la bordure de la métaphyse sans aspect frangé ou irrégularité"
+        },
+        "img1": {
+          "header": "1",
+          "text1": "Plaque de croissance élargie, irrégularité de la bordure métaphysaire, mais sans concavité cupuliforme"
+        },
+        "img15": {
+          "header": "1.5",
+          "text1": "Concavité métaphysaire partielle ou aspect frangé incomplet de la bordure métaphysaire"
+        },
+        "img2": {
+          "header": "2",
+          "text1": "Concavité métaphysaire avec bordure frangée"
+        },
+        "footnote": "Score du radius + score du cubitus = score total pour le poignet"
+      }
+    }
+  },
+  "pagination": {
+    "prev": "Précédent",
+    "next": "Suivant"
+  },
+  "button": {
+    "scoringGuide": "Guide d’évaluation",
+    "wristScoringGuide": "Guide d’évaluation du poignet",
+    "kneeScoringGuide": "Guide d’évaluation du genou",
+    "checkAssessment": "Vérification de l’évaluation",
+    "tryAgain": "Réessayer"
+  },
+  "imgAlt": {
+    "info": "Information",
+    "play": "lecture",
+    "pause": "pause",
+    "scoringGuide": "Guide d’évaluation",
+    "leftWrist": "Poignet gauche",
+    "rightWrist": "Poignet droit",
+    "leftWristFeedback": "Poignet gauche avec rétroaction",
+    "leftKnee": "Genou gauche",
+    "rightKnee": "Genou droit",
+    "rightKneeFeedback": "Genou droit avec rétroaction",
+    "leftKneeFeedback": "Genou gauche avec rétroaction"
+  },
+  "header": {
+    "banner": "Pour les professionnels de la santé canadiens"
+  },
+  "footer": {
+    "privacy1": "L’utilisation de ce site Internet est régie par notre",
+    "privacy2": "politique de confidentialité",
+    "copyright": "© 2023 Kyowa Kirin Canada, Inc. All rights reserved.",
+    "refsGlossary": "Références et glossaire",
+    "contact": "Nous contacter",
+    "glossary": "Glossaire",
+    "references": "Références"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos de l’échelle de gravité du rachitisme (RSS)",
+    "practice": "Exercice d’évaluation",
+    "cases": "Cas cliniques",
+    "calculator": "Calculateur RSS",
+    "setLanguage": "Définir la langue"
+  }
+}

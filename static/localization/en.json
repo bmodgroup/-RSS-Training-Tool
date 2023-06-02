@@ -1,0 +1,455 @@
+{
+  "home": {
+    "disclaimerWarning": {
+      "disclaimer": "This site is intended for Canadian healthcare professionals and is for informational purposes only.<br /><br />Please confirm that you are a licensed Canadian health care professional to enter the <strong>Ultragenyx Rickets Severity Score Training Tool</strong>.",
+      "yes": "I am a Canadian Healthcare Professional",
+      "yesalt": "Canadian Healthcare Professional",
+      "no": "I am not a Canadian healthcare professional",
+      "noalt": "Not a Canadian Healthcare Professional",
+      "leaving": "You are now leaving <strong>RSS training</strong> website.",
+      "continue": "Continue to Ultragenyx website"
+    },
+    "heading": "RSS Training Tool",
+    "subheading": "An educational tool for learning how to accurately assess patients with X-linked hypophosphatemic (XLH) rickets using the Rickets Severity Score (RSS).<sup>1</sup>",
+    "audioClips": "With audio clips and a guided tutorial.",
+    "playPause": "Play and pause recordings by tapping on the audio icon.",
+    "homeNav": {
+      "about": {
+        "title": "<span>Learn</span> About the RSS",
+        "text": "Learn about the <span>Rickets Severity Score</span> and how to use it for patients with XLH."
+      },
+      "tutorial": {
+        "title": "<span>Practice</span> Scoring",
+        "text": "Follow a step-by-step RSS tutorial and then try your hand at scoring individual images."
+      },
+      "cases": {
+        "title": "<span>Assess</span> Patient Cases",
+        "text": "Put it all together and test your RSS knowledge with patient cases."
+      },
+      "calculator": {
+        "title": "RSS Calculator",
+        "text": "Use this calculator to generate RSS documentation for your patients."
+      }
+    },
+    "footerDisclaimer": "Disclaimer: This tool is for educational purposes only and is not for diagnostic use. No data entered into this site will be saved. All data will be lost when the page is refreshed."
+  },
+  "about": {
+    "title": "RSS Training Tool: About the Rickets Severity Score (RSS)",
+    "introduction": {
+      "tabTitle": "Introduction",
+      "rickets": {
+        "header": "The Rickets Severity Score (RSS)",
+        "paragraph1": "The RSS is a quantitative method that uses radiographs to assess the severity of rickets at the wrists and knees. Originally validated in nutritional rickets, the score is based on the degree of",
+        "paragraph2": ", and the proportion of the growth plate that is affected. It is a 10-point scale, for which 10 represents the most severe radiographic changes due to rickets and 0 represents the absence of these changes.<sup>1</sup>",
+        "figcaption": "Figure 1. Illustrated examples of the different RSS values for each bone of the wrist and knee. Note that these values are not representative of the entire wrist or knee, but of the abnormality as it appears in each bone.<sup>2</sup>",
+        "tip": "Tip:",
+        "tipText": "This illustration is a useful reference to view as you’re scoring images. In the Scoring Practice and Patient Cases sections, just tap the Scoring Guide button to view it while you are scoring a radiograph."
+      },
+      "hypophosphatemicRickets": {
+        "header": "X-linked hypophosphatemic rickets (XLH)<sup>1</sup>",
+        "paragraph1": "XLH is a hereditary form of rickets caused by loss-of-function mutations in the <em>PHEX</em> gene that lead to high circulating levels of <em>fibroblast growth factor 23</em> (FGF23).",
+        "paragraph2": "Although the severity and duration of rickets vary considerably between XLH and nutritional rickets, the radiographic features of rickets at the growth plate are similar in the two disorders, which allowed validation of the RSS in XLH. The RSS correlates with serum alkaline phosphatase (ALP) levels, a biochemical marker of rachitic activity, and this scoring system can be used to assess the radiographic response following treatment of nutritional or XLH rickets.",
+        "paragraph3": "The RSS in XLH has been reported to range from 0 to 4.5; however, despite the smaller RSS range observed in XLH patients, inter- and intra-rater reliability are similar to those reported for nutritional rickets. Patients with XLH who had a baseline RSS ≥1.5 were shown to have more severe hypophosphatemic bone disease, including higher levels of alkaline phosphatase, and greater impairments in clinical outcomes compared with patients who had a baseline RSS&nbsp;&lt;1.5."
+      }
+    },
+    "usingTheRss": {
+      "tabTitle": "Using the RSS",
+      "header": "Using the RSS<sup>1</sup>",
+      "paragraph1p1": "The RSS progresses in half-point increments from 0 (no rickets) to 10 (most severe rickets), and allows for individual radiographs to be scored without referencing any prior images for comparison. To determine the overall score for a patient at a point in time, four radiographs are required—one image of each wrist and knee. Left and right images are compared to determine the side that exhibits the most severe signs of rickets, and the most severe side is then used for scoring. The indicators used to determine rachitic severity include lucency",
+      "paragraph1p2": "and",
+      "paragraph1p3": "These characteristics are evident at the",
+      "paragraph1p4": "of rachitic bones.",
+      "paragraph2": "The radius and ulna of the most severe wrist are each scored in half-point increments and summed to give a total wrist score. The femur and tibia of the most severe knee are each scored in one-point increments and are summed together to give a total knee score. At the knee, a multiplier factor of 0.5 is assigned to the bone if ≤1 condyle or plateau is affected. If both condyles or plateaus are affected, a multiplier of 1.0 is assigned. The maximum score for the wrist is 4 and the maximum score for the knee is 6. Once both wrist and knee are scored, these values are summed to give the total RSS for a patient."
+    },
+    "wristScoring": {
+      "tabTitle": "Wrist Scoring",
+      "header": "Wrist Scoring",
+      "paragraph1": "Rachitic abnormalities present differently at the radius and ulna. The figures below provide images that best represent the abnormality features that contribute to the RSS for each bone.",
+      "header2": "Abnormalities at the Radius",
+      "paragraph2": "For radiographic examples of scores 0-1.5 for the radius, refer to Figure 1 below. A score of 2.0 at the radius is not typically observed in patients with XLH.*",
+      "header3": "Radius",
+      "radius0": {
+        "header": "0",
+        "text1": "Normal growth plate without changes of rickets"
+      },
+      "radius05": {
+        "header": "0.5",
+        "text1": "of",
+        "text2": "without fraying or irregularity"
+      },
+      "radius1": {
+        "header": "1",
+        "text1": "Widened growth plate, irregularity of",
+        "text2": "but without concave cupping"
+      },
+      "radius15": {
+        "header": "1.5",
+        "text1": "Partial metaphyseal concavity or incomplete fraying of"
+      },
+      "radius2": {
+        "header": "2",
+        "text1": "Metaphyseal concavity with fraying margin"
+      },
+      "figcaption1": "Figure 1: Rachitic abnormalities at the radius, from least severe (0) to most severe&nbsp;(2).",
+      "figcaption11": "*The image shown for the radius score of 2 is from a patient with nutritional rickets caused by vitamin D deficiency, as this score is not typically observed in patients with XLH.",
+      "header4": "Abnormalities at the Ulna",
+      "paragraph3": "For radiographic examples of scores 0-2 for the ulna, refer to Figure 2 below.",
+      "header5": "Ulna",
+      "ulna0": {
+        "header": "0",
+        "text1": "Normal growth plate without changes of rickets"
+      },
+      "ulna05": {
+        "header": "0.5",
+        "text1": "of",
+        "text2": "without fraying or irregularity"
+      },
+      "ulna1": {
+        "header": "1",
+        "text1": "Widened growth plate, irregularity of",
+        "text2": "but without concave cupping"
+      },
+      "ulna15": {
+        "header": "1.5",
+        "text1": "Partial metaphyseal concavity or incomplete fraying of"
+      },
+      "ulna2": {
+        "header": "2",
+        "text1": "Metaphyseal concavity with fraying margin"
+      },
+      "figcaption2": "Figure 2: Rachitic abnormalities at the ulna, from least severe (0) to most severe&nbsp;(2).<br /> <strong>Tip:</strong> This figure is a useful reference as you’re scoring radiographs. In the Scoring Practice and Patient Cases sections, just tap the Scoring Guide button to view it while you are scoring a radiograph."
+    },
+    "kneeScoring": {
+      "tabTitle": "Knee Scoring",
+      "header": "Knee Scoring",
+      "introduction": "Rachitic abnormalities present differently at the femur and tibia. The figures below provide images that best represent the abnormal features that contribute to the RSS for each bone. Note that for the femur and tibia, the scores associated with each image are not representative of the entire bone score. These scores are only representative of the abnormality indicated by the arrow on each image. To determine the entire bone score, both condyles must be considered and the appropriate multiplier&nbsp;chosen.",
+      "femur": {
+        "header": "Abnormalities at the Femur",
+        "text1": "For radiographic examples of scores 0-3 for the femur, refer to Figure 3 below.",
+        "header2": "Femur",
+        "figcaption": "Figure 3: Rachitic abnormalities at the femur, from least severe (0) to most severe&nbsp;(3)."
+      },
+      "tibia": {
+        "header": "Abnormalities at the Tibia",
+        "text1": "For radiographic examples of scores 0-2 for the tibia, refer to Figure 4 below. Tibia scores of 3 are not typically observed in patients with XLH.*",
+        "header2": "Tibia",
+        "figcaption": "Figure 4: Rachitic abnormalities at the tibia, from least severe (0) to most severe&nbsp;(3).",
+        "figcaption2": "*The image shown for the tibia score of 3 is from a patient with nutritional rickets caused by vitamin D deficiency, as this score is not typically observed in patients with XLH."
+      },
+      "imgText": {
+        "img0": {
+          "header": "0",
+          "text1": "Normal growth plate without changes of rickets"
+        },
+        "img1": {
+          "header": "1",
+          "text1": "Partial",
+          "text2": "smooth margin of metaphysis visible"
+        },
+        "img2": {
+          "header": "2",
+          "text1": "Partial",
+          "text2": "smooth margin of the metaphysis NOT visible"
+        },
+        "img3": {
+          "header": "3",
+          "text1": "Complete",
+          "text2": "epiphysis appears widely separated from distal metaphysis"
+        }
+      },
+      "table": {
+        "header": "Table 1: Multiplier definitions for femur and tibia",
+        "subheader1": "0.5",
+        "text1": "One or no condyle or plateau affected",
+        "subheader2": "1",
+        "text2": "Two condyles or plateaus affected",
+        "footnote": "(Femur Score x Multiplier) + (Tibia Score x Multiplier) = Total Score for Knee",
+        "tip": "<strong>Tip:</strong> This chart is a great reference to have handy as you’re scoring. In the Scoring Practice and Patient Cases sections, just tap the Scoring Guide button to view it alongside the radiograph you are scoring."
+      },
+      "continue": "Continue to Tutorial"
+    }
+  },
+  "popOver": {
+    "metaphysealMargin": {
+      "title": "Metaphyseal margin",
+      "text": "metaphyseal margins",
+      "text2": "metaphyseal margin",
+      "content": "The edge or border of the metaphysis"
+    },
+    "metaphysealCupping": {
+      "title": "Metaphyseal cupping",
+      "text": "metaphyseal cupping",
+      "content": "Concavity of the metaphysis, giving the metaphysis a cup-like appearance<sup>3</sup>"
+    },
+    "metaphysealFraying": {
+      "title": "Metaphyseal fraying",
+      "text": "metaphyseal fraying",
+      "content": "Irregularity of the normally smooth distal metaphysis<sup>4</sup>"
+    },
+    "lucency": {
+      "title": "Lucency",
+      "text": "lucency",
+      "content": "Darker areas on the bone radiograph that occur as a result of decreased bone density, allowing more xrays to pass through<sup>5</sup>"
+    },
+    "widening": {
+      "title": "Widening of the growth plate",
+      "text": "widening of the growth plate",
+      "content": "An increase in the distance between the metaphysis and the epiphysis"
+    }
+  },
+  "tutorial": {
+    "feedback": {
+      "thatsRight": "That’s right",
+      "notQuite": "Not quite",
+      "correctScore": "correct score is"
+    },
+    "intro": {
+      "title": "RSS Training Tool: Tutorial &amp; Scoring Practice",
+      "header": "Tutorial",
+      "skip": "Skip tutorial",
+      "welcome": "Welcome to the RSS trainer!",
+      "welcomeP1": "Before diving into image scoring practice, walk through a patient case with this step-by-step tutorial. Learn which visual indicators to focus on, and how to calculate wrist, knee, and total RSS scores for your patients.",
+      "welcomeP2": "Only one wrist and one knee are used to calculate the overall RSS for a patient, so you will need to identify which wrist and which knee exhibit the most severe indications of XLH before assigning scores. <strong>While there are multiple ways to arrive at the same total RSS when scoring a wrist, knee, or patient, it is imperative that individual bone scores and multipliers are correctly selected.</strong> Correct selections will be highlighted in green when you hit the Check Answer button.",
+      "tipsHeader": "Helpful Tips",
+      "tipsIconTitle": "For both wrists and knees, focus your attention on the physis, or growth plate, and the portion of metaphysis directly adjacent to it.",
+      "tipsClick": "Click",
+      "tipsHover": "Hover over",
+      "tipsExtraTips": "this icon to see extra scoring tips throughout the tutorial.",
+      "tipsTryNow": "Give it a try now!",
+      "tipsAudio": "Click this icon to hear thought leader insights throughout the tutorial.",
+      "tipsScoringGuide": "Click this icon to see the score descriptions with illustrations.",
+      "tipsAudioInstructions": "This tutorial requires audio. Please make sure your audio is enabled before proceeding."
+    },
+    "page2": {
+      "instructions1": "Let's start with scoring the wrist.",
+      "instructions2": "Select the wrist with the most severe signs of XLH.",
+      "info": "Look for lucency, irregularity of the metaphyseal margin, widening of the growth plate, and any concave cupping.",
+      "feedbackText": "In this case, the left wrist shows more severe signs of XLH. There is a greater degree of lucency in both the radius and ulna of the left wrist."
+    },
+    "page3": {
+      "instructions1": "Now, we’ll score the radius and the ulna separately and add their scores together to calculate the total wrist&nbsp;score.",
+      "info": "Refer to the scoring guide often to identify the scores for each image, especially for images that seem over- or under-exposed.",
+      "feedbackText": "The radius shows lucency of the metaphyseal margin, but it has a smooth margin with no fraying or irregularity, so it’s scored as a 0.5. The ulna has a widened growth plate and irregularity of the metaphyseal margin, but does not show signs of concave cupping, so it’s scored as a 1. Adding these two scores together, we get a total score of 1.5 for the wrist.",
+      "step1": "Step 1: Score the radius",
+      "step2": "Step 2: Score the ulna",
+      "step3": "Step 3: Calculate the Total Wrist&nbsp;Score"
+    },
+    "page4": {
+      "instructions1": "Now that we have a total score for the wrist, let’s move on to the knee.",
+      "instructions2": "Choose the knee that exhibits the most severe signs of XLH.",
+      "info": "Like with the wrist, look for lucency, irregularity of the metaphyseal margin and widening of the growth plate.",
+      "feedbackText": "In this case, both knees have a similar level of XLH severity. For the purposes of the tutorial, we’ll score the right knee."
+    },
+    "page5": {
+      "instructions1": "First, score the femur and select the appropriate multiplier. Then, do the same for the tibia and add the scores for both bones together to get a total knee score.",
+      "info": "The key characteristics of each severity score should still be discernible, even with some variation in image exposure. Remember to refer to the scoring guide.",
+      "feedbackText": "Both condyles of the femur are partially lucent, meaning that the score of 1 applies to both condyles. Therefore, our multiplier for the femur is 1. On the other hand, only one condyle of the tibia is partially lucent, so our score of 1 will be multiplied by 0.5. This will give us a tibia score of 0.5. By adding the scores for the femur and tibia together, we have a total knee score of 1.5.",
+      "step1": "Step 1: Score the Femur",
+      "step2": "Step 2: Select Multiplier",
+      "step3": "Step 3: Score the Tibia",
+      "step4": "Step 4: Select Multiplier",
+      "step5": "Step 5: Calculate The Total Knee&nbsp;Score"
+    },
+    "page6": {
+      "instructions1": "The overall patient RSS is calculated by adding the total score for the wrist to the total score for the knee. In this example, a wrist score of 1.5 and a knee score of 1.5 are added to give us an overall patient RSS of&nbsp;3.0.",
+      "instructions2": "Great job! You’ve completed the RSS Trainer tutorial!",
+      "continue": "Continue to practice"
+    },
+    "warning": {
+      "question": "Are you sure you want to end your practice?",
+      "reset": "All images will be reset.",
+      "yes": "Yes, I’m done the tutorial",
+      "no": "No, I want to continue practicing"
+    }
+  },
+  "practice": {
+    "title": "RSS Training Tool: Tutorial &amp; Scoring Practice",
+    "header": "Scoring Practice",
+    "back": "Back to tutorial",
+    "wrist": "Wrist",
+    "knee": "Knee",
+    "wristPage1": "Clear, hard edges are seen on both the radius and ulna in this case. No lucency or irregularity is present.",
+    "wristPage2": "Lucency is seen in the ulna, but without fraying or irregularity. Note the small amount of irregularity on the lateral radius. It is small enough that the radius could be scored either 0 or 0.5 in this case.",
+    "wristPage3": "There is lucency in the radius, but the margin is still clear and straight. The ulna is exhibiting some concavity, but it is not quite severe enough to be scored a 2.",
+    "wristPage4": "Lucency is apparent on the lateral radius. The ulna is exhibiting cupping and metaphyseal fraying, and could be scored as either 1.5 or 2.",
+    "wristPage5": "Here, the radius is exhibiting lucency, as is the ulna with some additional concavity and fraying.",
+    "kneePage1": "There is no rachitic evidence in this knee. No lucency or widening of the growth plate is observed and the metaphyseal margins of both the femur and tibia are clearly defined.",
+    "kneePage2": "Partial lucency is observed on the medial condyle of both the femur and tibia, so both scores of 1.0 are multiplied by 0.5.",
+    "kneePage3": "The medial femur is exhibiting lucency and a smooth margin is not visible. The lateral condyle of the femur is unaffected, so the medial score is multiplied by 0.5. As with the femur, only one condyle of the tibia is affected, showing partial lucency but with a smooth and clearly visible margin.",
+    "kneePage4": "Both the femur and tibia are exhibiting partial lucency at the edges of each condyle.",
+    "kneePage5": "The key features here are the margins. Both the femur and tibia are exhibiting lucency and irregular margins at the edge of the metaphyses."
+  },
+  "practiceCase": {
+    "wristImage": "Wrist image",
+    "kneeImage": "Knee image",
+    "of": "of",
+    "info": "Remember, you can pull up the scoring guide for visual comparison at any time by tapping on the button under the image!",
+    "wristInstruction": "Score the radius and ulna separately and add the scores together to get the total score for the wrist.",
+    "kneeInstruction": "First, score the femur and tibia separately, then select the appropriate multipliers for each. The multipliers will only become available after the score for femur and tibia have been selected. Add the products for femur and tibia together to get the total score for the knee.",
+    "toKnee": "Continue to Knee Practice",
+    "toPatient": "Continue to Patient Cases",
+    "thatsRight": "Yes, That’s right!",
+    "noNotQuite": "No, Not Quite.",
+    "answersHighlighted": "Answers are highlighted in green below.",
+    "wristAssessment": "Wrist Assessment",
+    "kneeAssessment": "Knee Assessment",
+    "assessmentCheck": "Assessment Check"
+  },
+  "cases": {
+    "title": "RSS Training Tool: Patient Cases",
+    "patient": "Patient",
+    "of": "of",
+    "conclusion": "Conclusion",
+    "subheader": "Score the most severe wrist and the most severe knee, as indicated by the green boxes.",
+    "greatJob": "Great job!",
+    "instructions1": "You’ve completed all of the examples in the RSS Training&nbsp;Tool.",
+    "instructions2": "Be sure to check out the RSS calculator, designed to help you score and create RSS documentation for your patients.",
+    "tryNow": "Give it a try now"
+  },
+  "patientCase": {
+    "assessmentCheck": "Assessment Check",
+    "wristAssessment": "Wrist Assessment",
+    "kneeAssessment": "Knee Assessment",
+    "thatsRight": "Yes, That’s right!",
+    "noNotQuite": "No, Not Quite.",
+    "answersHighlighted": "Answers are highlighted in green.",
+    "completeGrade": "Please complete grade"
+  },
+  "calculator": {
+    "title": "RSS Training Tool: RSS Calculator",
+    "header": "RSS Calculator",
+    "intro": "Calculate the RSS for your patient and generate documentation by printing the calculated score as a PDF. First, choose the most severe wrist and the most severe knee to score, and then select the appropriate scores for each bone, as well as the multipliers for the femur and tibia.",
+    "generatePDF": "Generate PDF",
+    "disclaimer": "Disclaimer: No data entered into this site will be saved. All data will be lost when the page is refreshed.",
+    "datestamp": "Date generated:"
+  },
+  "feedback": {
+    "buttonLabel": "Check Answer",
+    "tooltipText": "Please select an image",
+    "score": "Please select a score",
+    "hoverToZoom": "Hover to zoom",
+    "tapToZoom": "Tap to zoom",
+    "download": "Download user guide",
+    "userGuide": "pdfs/RSS_Training_Tool_User_Guide_en.pdf"
+  },
+  "assessment": {
+    "kneeTotal": "Knee Total",
+    "wristTotal": "Wrist Total",
+    "kneeCalc": "(Femur x Multiplier) + (Tibia x Multiplier) = Total Knee Score",
+    "wristCalc": "Radius + Ulna = Total Wrist Score",
+    "totalKneeScore": "Total Knee<br />Score",
+    "totalWristScore": "Total Wrist<br />Score",
+    "totalPatientRSS": "Total <br />Patient RSS"
+  },
+  "scoreInput": {
+    "multiplier": "Multiplier",
+    "femur": "Femur",
+    "radius": "Radius",
+    "tibia": "Tibia",
+    "ulna": "Ulna",
+    "point5": "0.5",
+    "onePoint5": "1.5"
+  },
+  "scoringGuides": {
+    "header": "Scoring Guide",
+    "knee": {
+      "header": "Knee score definitions for femur and tibia<sup>1</sup>",
+      "imgText": {
+        "img0": {
+          "header": "0",
+          "text1": "Normal growth plate without changes of rickets"
+        },
+        "img1": {
+          "header": "1",
+          "text1": "Partial lucency, smooth margin of metaphysis visible"
+        },
+        "img2": {
+          "header": "2",
+          "text1": "Partial lucency, smooth margin of the metaphysis NOT visible"
+        },
+        "img3": {
+          "header": "3",
+          "text1": "Complete lucency, epiphysis appears widely separated from distal metaphysis"
+        }
+      },
+      "table": {
+        "header": "Multiplier definitions for femur and tibia",
+        "subheader1": "0.5",
+        "text1": "One or no condyle or plateau affected",
+        "subheader2": "1",
+        "text2": "Two condyles or plateaus affected",
+        "footnote": "(Femur Score x Multiplier) + (Tibia Score x Multiplier) = Total Score for Knee"
+      }
+    },
+    "wrist": {
+      "header": "Wrist score definitions for radius and ulna<sup>1</sup>",
+      "imgText": {
+        "img0": {
+          "header": "0",
+          "text1": "Normal growth plate without changes of rickets"
+        },
+        "img05": {
+          "header": "0.5",
+          "text1": "Lucency of metaphyseal margin without fraying or irregularity"
+        },
+        "img1": {
+          "header": "1",
+          "text1": "Widened growth plate, irregularity of metaphyseal margin, but without concave cupping"
+        },
+        "img15": {
+          "header": "1.5",
+          "text1": "Partial metaphyseal concavity or incomplete fraying of metaphyseal margin"
+        },
+        "img2": {
+          "header": "2",
+          "text1": "Metaphyseal concavity with fraying margin"
+        },
+        "footnote": "Radius Score + Ulna Score = Total Score for Wrist"
+      }
+    }
+  },
+  "pagination": {
+    "prev": "Previous",
+    "next": "Next"
+  },
+  "button": {
+    "scoringGuide": "Scoring Guide",
+    "wristScoringGuide": "Wrist scoring guide",
+    "kneeScoringGuide": "Knee Scoring Guide",
+    "checkAssessment": "Check Assessment",
+    "tryAgain": "Try Again"
+  },
+  "imgAlt": {
+    "info": "information",
+    "play": "play",
+    "pause": "pause",
+    "scoringGuide": "Scoring Guide",
+    "leftWrist": "Left Wrist",
+    "rightWrist": "Right Wrist",
+    "leftWristFeedback": "Left wrist with feedback",
+    "leftKnee": "Left Knee",
+    "rightKnee": "Right Knee",
+    "rightKneeFeedback": "Right knee with feedback",
+    "leftKneeFeedback": "Left knee with feedback"
+  },
+  "header": {
+    "banner": "For Canadian Healthcare Professionals"
+  },
+  "footer": {
+    "privacy1": "Use of this website is governed by our",
+    "privacy2": "Privacy Policy",
+    "copyright": "© 2023 Kyowa Kirin Canada, Inc. All rights reserved.",
+    "refsGlossary": "References and Glossary",
+    "contact": "Contact Us",
+    "glossary": "Glossary",
+    "references": "References"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About the Rickets Severity Score (RSS)",
+    "practice": "Scoring Practice",
+    "cases": "Patient Cases",
+    "calculator": "RSS Calculator",
+    "setLanguage": "Set language"
+  }
+}

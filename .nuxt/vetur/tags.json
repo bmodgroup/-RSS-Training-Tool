@@ -1,0 +1,47 @@
+{
+  "Assessment": {
+    "description": "Auto imported from components/Assessment.vue"
+  },
+  "DisclaimerScreen": {
+    "description": "Auto imported from components/DisclaimerScreen.vue"
+  },
+  "Feedback": {
+    "description": "Auto imported from components/Feedback.vue"
+  },
+  "HomeMenuItem": {
+    "description": "Auto imported from components/HomeMenuItem.vue"
+  },
+  "ImageSelection": {
+    "description": "Auto imported from components/ImageSelection.vue"
+  },
+  "Modal": {
+    "description": "Auto imported from components/Modal.vue"
+  },
+  "PageTitle": {
+    "description": "Auto imported from components/PageTitle.vue"
+  },
+  "PatientCase": {
+    "description": "Auto imported from components/PatientCase.vue"
+  },
+  "Popover": {
+    "description": "Auto imported from components/Popover.vue"
+  },
+  "PracticeCase": {
+    "description": "Auto imported from components/PracticeCase.vue"
+  },
+  "ScoreInput": {
+    "description": "Auto imported from components/ScoreInput.vue"
+  },
+  "ScoringGuide": {
+    "description": "Auto imported from components/ScoringGuide.vue"
+  },
+  "SiteFooter": {
+    "description": "Auto imported from components/SiteFooter.vue"
+  },
+  "SiteHeader": {
+    "description": "Auto imported from components/SiteHeader.vue"
+  },
+  "SiteNav": {
+    "description": "Auto imported from components/SiteNav.vue"
+  }
+}

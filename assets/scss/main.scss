@@ -1,0 +1,208 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: url('~assets/fonts/SourceSansPro-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('~assets/fonts/SourceSansPro-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: url('~assets/fonts/SourceSansPro-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url('~assets/fonts/SourceSansPro-Bold.ttf') format('truetype');
+}
+
+@media (min-width: 1200px) {
+  .container,
+  .container-sm,
+  .container-md,
+  .container-lg,
+  .container-xl {
+    max-width: 1024px !important;
+  }
+}
+
+@include media-breakpoint-down(xs) {
+  .container,
+  .container-sm,
+  .container-md,
+  .container-lg,
+  .container-xl {
+    padding-left: rem(30px) !important;
+    padding-right: rem(30px) !important;
+  }
+
+  .modal-body {
+    .container,
+    .container-sm,
+    .container-md,
+    .container-lg,
+    .container-xl {
+      padding-left: rem(15px) !important;
+      padding-right: rem(15px) !important;
+    }
+  }
+}
+
+html {
+  font-size: 1rem;
+}
+
+.page {
+  min-height: calc(100vh - 148px);
+}
+
+.section-header {
+  font-size: rem(26px);
+  color: $purple;
+  font-weight: 700;
+  @include media-breakpoint-down(xs) {
+    font-size: rem(18px);
+  }
+}
+
+.tab-content {
+  p {
+    line-height: rem(22px);
+    @include media-breakpoint-down(xs) {
+      font-size: rem(14px);
+    }
+  }
+}
+
+.img-container {
+  img {
+    width: 100%;
+  }
+}
+
+@include media-breakpoint-up(sm) {
+  html {
+    font-size: 1.2rem;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 1.4rem;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 1.6rem;
+  }
+  .container-xl {
+    padding: 0 rem(70px) !important;
+  }
+}
+
+// Pagination Elements
+
+.pagination {
+  .page-item {
+    display: flex;
+    align-items: center;
+    background-color: transparent;
+
+    &.bv-d-xs-down-none {
+      flex: none;
+    }
+
+    .page-link {
+      background-color: transparent;
+      border-color: transparent;
+      color: $darker-grey;
+      font-size: rem(16px);
+      line-height: rem(16px);
+      padding: 5px;
+    }
+
+    &.disabled {
+      #arrowLeft,
+      #arrowRight {
+        stroke: $light-grey;
+      }
+
+      .page-link {
+        color: $light-grey;
+      }
+    }
+
+    &.active {
+      .page-link {
+        background-color: transparent;
+        border-color: transparent;
+      }
+    }
+  }
+}
+
+// Modal Elements
+
+@media (min-width: 992px) {
+  .modal-lg, .modal-xl {
+      max-width: 1140px;
+  }
+}
+
+.modal-body {
+  padding: 0 2rem 2rem;
+  @include media-breakpoint-down(xs) {
+    padding: 0 1.5rem 1.5rem;
+  }
+}
+
+.modal-header {
+  align-items: center;
+  border-bottom: none;
+  padding: 2rem 2.5rem 0;
+  @include media-breakpoint-down(xs) {
+    padding: 1.5rem 1.5rem 0.5rem;
+  }
+  .close {
+    font-size: rem(55px);
+    font-weight: 300;
+  }
+  h5 {
+    font-size: rem(40px);
+    color: $dark-grey;
+    font-weight: 600;
+    @include media-breakpoint-down(xs) {
+      font-size: rem(27px);
+    }
+  }
+}
+
+.modal-title {
+  @include media-breakpoint-down(xs) {
+    line-height: 1.2;
+  }
+}
+
+.modal-dialog {
+  @include media-breakpoint-down(xs) {
+    margin: rem(24px);
+  }
+}
+
+.col-half-offset {
+  margin-left: 4.166666667%;
+  @include media-breakpoint-down(xs) {
+    margin-left: 0;
+  }
+}
