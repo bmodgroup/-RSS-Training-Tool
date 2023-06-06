@@ -9,7 +9,7 @@ export const nuxtOptions = {
 export const options = {
   vueI18n: {},
   vueI18nLoader: false,
-  locales: [{"code":"en","name":"English","iso":"en-US","file":"en.json"},{"code":"fr","name":"Français","iso":"fr-FR","file":"fr.json"}],
+  locales: [{"code":"en","name":"English","iso":"en-US","file":"en.json"}],
   defaultLocale: "en",
   defaultDirection: "ltr",
   routesNameSeparator: "___",
@@ -17,7 +17,7 @@ export const options = {
   sortRoutes: true,
   strategy: "no_prefix",
   lazy: true,
-  langDir: "/Users/dlalonde/Sites/kyowakirin/rss-training-tool/static/localization",
+  langDir: "/Users/swarren/Sites/rss-training-tool/static/localization",
   rootRedirect: null,
   detectBrowserLanguage: {"alwaysRedirect":false,"cookieCrossOrigin":false,"cookieDomain":null,"cookieKey":"i18n_redirected","cookieSecure":false,"fallbackLocale":"","onlyOnNoPrefix":false,"onlyOnRoot":false,"useCookie":true},
   differentDomains: false,
@@ -30,11 +30,10 @@ export const options = {
   beforeLanguageSwitch: () => null,
   onBeforeLanguageSwitch: () => {},
   onLanguageSwitched: () => null,
-  normalizedLocales: [{"code":"en","name":"English","iso":"en-US","file":"en.json"},{"code":"fr","name":"Français","iso":"fr-FR","file":"fr.json"}],
-  localeCodes: ["en","fr"],
+  normalizedLocales: [{"code":"en","name":"English","iso":"en-US","file":"en.json"}],
+  localeCodes: ["en"],
 }
 
 export const localeMessages = {
   'en.json': () => import('../../static/localization/en.json' /* webpackChunkName: "lang-en.json" */),
-  'fr.json': () => import('../../static/localization/fr.json' /* webpackChunkName: "lang-fr.json" */),
 }

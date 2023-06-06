@@ -2,57 +2,57 @@
   {
     "name": "about",
     "path": "/about",
-    "component": "/Users/dlalonde/Sites/kyowakirin/rss-training-tool/pages/about.vue",
+    "component": "/Users/swarren/Sites/rss-training-tool/pages/about.vue",
     "chunkName": "pages/about",
-    "_name": "_4bb831b9"
+    "_name": "_112b8722"
   },
   {
     "name": "calculator",
     "path": "/calculator",
-    "component": "/Users/dlalonde/Sites/kyowakirin/rss-training-tool/pages/calculator.vue",
+    "component": "/Users/swarren/Sites/rss-training-tool/pages/calculator.vue",
     "chunkName": "pages/calculator",
-    "_name": "_bf2de1f4"
+    "_name": "_8a0173e0"
   },
   {
     "name": "cases",
     "path": "/cases",
-    "component": "/Users/dlalonde/Sites/kyowakirin/rss-training-tool/pages/cases.vue",
+    "component": "/Users/swarren/Sites/rss-training-tool/pages/cases.vue",
     "chunkName": "pages/cases",
-    "_name": "_76c5a322"
+    "_name": "_704f3925"
   },
   {
     "name": "contact",
     "path": "/contact",
-    "component": "/Users/dlalonde/Sites/kyowakirin/rss-training-tool/pages/contact.vue",
+    "component": "/Users/swarren/Sites/rss-training-tool/pages/contact.vue",
     "chunkName": "pages/contact",
-    "_name": "_40ef7bcc"
+    "_name": "_6f6c9dfc"
   },
   {
     "name": "practice",
     "path": "/practice",
-    "component": "/Users/dlalonde/Sites/kyowakirin/rss-training-tool/pages/practice.vue",
+    "component": "/Users/swarren/Sites/rss-training-tool/pages/practice.vue",
     "chunkName": "pages/practice",
-    "_name": "_cf25e882"
+    "_name": "_074d056e"
   },
   {
     "name": "privacy",
     "path": "/privacy",
-    "component": "/Users/dlalonde/Sites/kyowakirin/rss-training-tool/pages/privacy.vue",
+    "component": "/Users/swarren/Sites/rss-training-tool/pages/privacy.vue",
     "chunkName": "pages/privacy",
-    "_name": "_cfc8f198"
+    "_name": "_1f75bc6a"
   },
   {
     "name": "tutorial",
     "path": "/tutorial",
-    "component": "/Users/dlalonde/Sites/kyowakirin/rss-training-tool/pages/tutorial.vue",
+    "component": "/Users/swarren/Sites/rss-training-tool/pages/tutorial.vue",
     "chunkName": "pages/tutorial",
-    "_name": "_907e273c"
+    "_name": "_1bad5dec"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Users/dlalonde/Sites/kyowakirin/rss-training-tool/pages/index.vue",
+    "component": "/Users/swarren/Sites/rss-training-tool/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_6b700c7e"
+    "_name": "_17221734"
   }
 ]
