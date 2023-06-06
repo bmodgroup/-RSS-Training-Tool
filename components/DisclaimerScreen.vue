@@ -10,7 +10,7 @@
     <div class="container">
       <div class="row pt-5">
         <b-col v-if="exitPage === false">
-          <div class="lang-selector">
+          <!-- <div class="lang-selector">
             {{ nav.setLanguage }}:
             <a
               href="#"
@@ -24,7 +24,7 @@
               @click="$i18n.setLocale('fr')"
               >Français</a
             >
-          </div>
+          </div> -->
           <p class="mb-5" v-html="home.disclaimerWarning.disclaimer"></p>
           <button
             class="button"
@@ -40,33 +40,6 @@
               />
             </div>
           </button>
-          <br /><br />
-          <button
-            class="button"
-            v-on:click="notProfessional()"
-            :aria-label="home.disclaimerWarning.no"
-          >
-            <div class="button-copy">
-              <span>{{ home.disclaimerWarning.no }}</span>
-              <img
-                class="icon"
-                src="~/assets/icons/arrow_purple.svg"
-                :alt="home.disclaimerWarning.noalt"
-              />
-            </div>
-          </button>
-        </b-col>
-
-        <b-col v-if="exitPage === true">
-          <p v-html="home.disclaimerWarning.leaving"></p>
-          <a
-            class="button"
-            href="https://www.ultragenyx.com/"
-            aria-label="Continue to Ultragenyx website"
-          >
-            <span>{{ home.disclaimerWarning.continue }}</span>
-            <img class="icon" src="~/assets/icons/arrow_purple.svg" alt="" />
-          </a>
         </b-col>
       </div>
     </div>
