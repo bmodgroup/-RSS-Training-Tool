@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'RSS Training Tool • Outil de formation RSS',
+    title: 'RSS Training Tool',
     htmlAttrs: {
       lang: 'en',
     },
@@ -13,7 +13,7 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/ug-favicon.ico' }],
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/kk-favicon.ico' }],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -72,7 +72,7 @@ export default {
     langDir: './static/localization/',
     locales: [
       { code: 'en', name: 'English', iso: 'en-US', file: 'en.json' },
-      { code: 'fr', name: 'Français', iso: 'fr-FR', file: 'fr.json' },
+      //{ code: 'fr', name: 'Français', iso: 'fr-FR', file: 'fr.json' },
     ],
   },
 
