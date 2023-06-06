@@ -104,7 +104,7 @@
               </p>
               <ul>
                 <li>
-                  Our Kyowa Kirin Canada, Inc.,’s parent company and affiliates
+                  Our Kyowa Kirin Canada, Inc.’s parent company and affiliates
                   as described in this Policy,<sup>†</sup> for the purposes as
                   described herein and to assist us in providing our products
                   and services to you. Our parent company and affiliates are
@@ -251,7 +251,7 @@
               <p>
                 Kyowa Kirin Canada, Inc.<br />
                 550 Burrard Street, Suite 2300, Bentall 5,<br />
-                Vancouver, BC V6C 2B5
+                Vancouver, BC&nbsp;&nbsp;V6C 2B5
               </p>
               <p>
                 Our Privacy and Commercial Counsel, who is also our Privacy and
