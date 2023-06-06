@@ -1,13 +1,9 @@
 {
   "home": {
     "disclaimerWarning": {
-      "disclaimer": "This site is intended for Canadian healthcare professionals and is for informational purposes only.<br /><br />Please confirm that you are a licensed Canadian health care professional to enter the <strong>Ultragenyx Rickets Severity Score Training Tool</strong>.",
+      "disclaimer": "This site is intended for Canadian healthcare professionals and is for informational purposes only.<br /><br />Please confirm that you are a licensed Canadian health care professional to enter the <strong>Rickets Severity Score Training Tool</strong>.",
       "yes": "I am a Canadian Healthcare Professional",
-      "yesalt": "Canadian Healthcare Professional",
-      "no": "I am not a Canadian healthcare professional",
-      "noalt": "Not a Canadian Healthcare Professional",
-      "leaving": "You are now leaving <strong>RSS training</strong> website.",
-      "continue": "Continue to Ultragenyx website"
+      "yesalt": "Canadian Healthcare Professional"
     },
     "heading": "RSS Training Tool",
     "subheading": "An educational tool for learning how to accurately assess patients with X-linked hypophosphatemic (XLH) rickets using the Rickets Severity Score (RSS).<sup>1</sup>",

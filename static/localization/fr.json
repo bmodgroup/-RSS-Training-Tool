@@ -1,13 +1,9 @@
 {
   "home": {
     "disclaimerWarning": {
-      "disclaimer": "Ce site est destiné aux professionnels de la santé canadiens à titre informatif seulement.<br/><br/>Veuillez confirmer que vous êtes un professionnel de la santé canadien autorisé afin d’utiliser <strong>l’outil de formation sur l’échelle de gravité du rachitisme d’Ultragenyx</strong>.",
+      "disclaimer": "Ce site est destiné aux professionnels de la santé canadiens à titre informatif seulement.<br/><br/>Veuillez confirmer que vous êtes un professionnel de la santé canadien autorisé afin d’utiliser <strong>l’outil de formation sur l’échelle de gravité du rachitisme</strong>.",
       "yes": "Je suis un professionnel de la santé canadien",
-      "yesalt": "Professionnel de la santé canadien",
-      "no": "Je ne suis pas un professionnel de la santé canadien",
-      "noalt": "Pas un professionnel de la santé canadien",
-      "leaving": "Vous quittez maintenant le site Internet de <strong>formation RSS</strong>.",
-      "continue": "Passer au site Internet d’Ultragenyx"
+      "yesalt": "Professionnel de la santé canadien"
     },
     "heading": "Outil de formation RSS",
     "subheading": "Un outil pédagogique pour apprendre à évaluer avec précision les patients atteints de rachitisme hypophosphatémique lié à l’X (XLH) à l’aide de l’échelle de gravité du rachitisme (RSS pour Rickets Severity Score).<sup>1</sup>",
