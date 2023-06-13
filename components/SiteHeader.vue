@@ -2,7 +2,7 @@
   <div>
     <div class="top-banner">
       <p v-html="header.banner"></p>
-      <p>
+      <p class="disclaimer">
         <span v-html="header.disclaimer"></span>
         <router-link to="privacy">
           <span v-html="header.privacyPolicyLink"></span>.
@@ -56,6 +56,9 @@ export default {
     text-align: center;
     padding: rem(3px);
     margin-bottom: 0;
+    &.disclaimer {
+      font-size: rem(10px);
+    }
   }
 }
 .logo-container {
