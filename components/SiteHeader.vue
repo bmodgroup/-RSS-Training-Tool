@@ -1,6 +1,14 @@
 <template>
   <div>
-    <div class="top-banner"><p v-html="header.banner"></p></div>
+    <div class="top-banner">
+      <p v-html="header.banner"></p>
+      <p>
+        <span v-html="header.disclaimer"></span>
+        <router-link to="privacy">
+          <span v-html="header.privacyPolicyLink"></span>.
+        </router-link>
+      </p>
+    </div>
     <b-navbar class="site-header">
       <b-container fluid="xl" class="py-1">
         <NuxtLink to="/"

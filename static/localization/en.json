@@ -6,7 +6,7 @@
       "yesalt": "Canadian Healthcare Professional"
     },
     "heading": "RSS Training Tool",
-    "subheading": "An educational tool for learning how to accurately assess patients with X-linked hypophosphatemic (XLH) rickets using the Rickets Severity Score (RSS).<sup>1</sup>",
+    "subheading": "An educational tool for learning how to assess patients with X-linked hypophosphatemic (XLH) rickets using the Rickets Severity Score (RSS).<sup>1</sup>",
     "audioClips": "With audio clips and a guided tutorial.",
     "playPause": "Play and pause recordings by tapping on the audio icon.",
     "homeNav": {
@@ -429,7 +429,9 @@
     "leftKneeFeedback": "Left knee with feedback"
   },
   "header": {
-    "banner": "For Canadian Healthcare Professionals"
+    "banner": "For Canadian Healthcare Professionals",
+    "disclaimer": "This website is for educational and training purposes only. No personal information is collected via this website and no cookies are placed. For information on Kyowa Kirin's privacy practice generally, see ",
+    "privacyPolicyLink": "privacy policy"
   },
   "footer": {
     "privacy1": "Use of this website is governed by our",
