@@ -803,7 +803,7 @@
           <p class="text-center instruction-complete">
             <span v-html="tutorial.page6.instructions2"></span>
 
-            <router-link to="practice">
+            <router-link to="/practice">
               <span v-html="tutorial.page6.continue"></span>&nbsp;<img
                 src="~/assets/icons/nav-arrow.svg"
                 alt=""
