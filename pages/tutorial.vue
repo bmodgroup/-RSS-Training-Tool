@@ -803,7 +803,7 @@
           <p class="text-center instruction-complete">
             <span v-html="tutorial.page6.instructions2"></span>
 
-            <router-link to="practice">
+            <router-link to="/practice">
               <span v-html="tutorial.page6.continue"></span>&nbsp;<img
                 src="~/assets/icons/nav-arrow.svg"
                 alt=""
@@ -886,7 +886,7 @@
         </div>
         <div class="row m-auto">
           <div class="skip-footer">
-            <b-button class="yes" variant="primary" to="practice">{{
+            <b-button class="yes" variant="primary" to="/practice">{{
               tutorial.warning.yes
             }}</b-button>
             <b-button
