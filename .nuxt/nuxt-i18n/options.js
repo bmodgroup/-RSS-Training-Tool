@@ -17,7 +17,7 @@ export const options = {
   sortRoutes: true,
   strategy: "no_prefix",
   lazy: true,
-  langDir: "/Users/swarren/Sites/rss-training-tool/static/localization",
+  langDir: "/Users/dlalonde/Sites/kyowakirin/rss-training-tool/static/localization",
   rootRedirect: null,
   detectBrowserLanguage: {"alwaysRedirect":false,"cookieCrossOrigin":false,"cookieDomain":null,"cookieKey":"i18n_redirected","cookieSecure":false,"fallbackLocale":"","onlyOnNoPrefix":false,"onlyOnRoot":false,"useCookie":true},
   differentDomains: false,

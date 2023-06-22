@@ -4,14 +4,14 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _112b8722 = () => interopDefault(import('../pages/about.vue' /* webpackChunkName: "pages/about" */))
-const _8a0173e0 = () => interopDefault(import('../pages/calculator.vue' /* webpackChunkName: "pages/calculator" */))
-const _704f3925 = () => interopDefault(import('../pages/cases.vue' /* webpackChunkName: "pages/cases" */))
-const _6f6c9dfc = () => interopDefault(import('../pages/contact.vue' /* webpackChunkName: "pages/contact" */))
-const _074d056e = () => interopDefault(import('../pages/practice.vue' /* webpackChunkName: "pages/practice" */))
-const _1f75bc6a = () => interopDefault(import('../pages/privacy.vue' /* webpackChunkName: "pages/privacy" */))
-const _1bad5dec = () => interopDefault(import('../pages/tutorial.vue' /* webpackChunkName: "pages/tutorial" */))
-const _17221734 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _4bb831b9 = () => interopDefault(import('../pages/about.vue' /* webpackChunkName: "pages/about" */))
+const _bf2de1f4 = () => interopDefault(import('../pages/calculator.vue' /* webpackChunkName: "pages/calculator" */))
+const _76c5a322 = () => interopDefault(import('../pages/cases.vue' /* webpackChunkName: "pages/cases" */))
+const _40ef7bcc = () => interopDefault(import('../pages/contact.vue' /* webpackChunkName: "pages/contact" */))
+const _cf25e882 = () => interopDefault(import('../pages/practice.vue' /* webpackChunkName: "pages/practice" */))
+const _cfc8f198 = () => interopDefault(import('../pages/privacy.vue' /* webpackChunkName: "pages/privacy" */))
+const _907e273c = () => interopDefault(import('../pages/tutorial.vue' /* webpackChunkName: "pages/tutorial" */))
+const _6b700c7e = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -26,35 +26,35 @@ export const routerOptions = {
 
   routes: [{
     path: "/about",
-    component: _112b8722,
+    component: _4bb831b9,
     name: "about"
   }, {
     path: "/calculator",
-    component: _8a0173e0,
+    component: _bf2de1f4,
     name: "calculator"
   }, {
     path: "/cases",
-    component: _704f3925,
+    component: _76c5a322,
     name: "cases"
   }, {
     path: "/contact",
-    component: _6f6c9dfc,
+    component: _40ef7bcc,
     name: "contact"
   }, {
     path: "/practice",
-    component: _074d056e,
+    component: _cf25e882,
     name: "practice"
   }, {
     path: "/privacy",
-    component: _1f75bc6a,
+    component: _cfc8f198,
     name: "privacy"
   }, {
     path: "/tutorial",
-    component: _1bad5dec,
+    component: _907e273c,
     name: "tutorial"
   }, {
     path: "/",
-    component: _17221734,
+    component: _6b700c7e,
     name: "index"
   }],
 
