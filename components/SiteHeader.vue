@@ -8,6 +8,11 @@
           <span v-html="header.privacyPolicyLink"></span>.
         </router-link>
       </p>
+      <p class="disclaimer">
+        <span v-html="header.disclaimerEducational1"></span>
+        <a v-b-modal.refs class="btn-refs">{{ header.referenceLink }}</a>
+        <span v-html="header.disclaimerEducational2"></span>
+      </p>
     </div>
     <b-navbar class="site-header">
       <b-container fluid="xl" class="py-1">

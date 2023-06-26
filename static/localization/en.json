@@ -431,6 +431,9 @@
   "header": {
     "banner": "For Canadian Healthcare Professionals",
     "disclaimer": "This website is for educational and training purposes only. No personal information is collected via this website and no cookies are placed. For information on Kyowa Kirin's privacy practice generally, see ",
+    "disclaimerEducational1": "This tool was independently developed by a third party and posted for educational and training purposes and outlines the method outlined in all references. Please see the full list of references under the ",
+    "disclaimerEducational2": " section. The company takes no responsibility for the tool or its use.",
+    "referenceLink": "references and glossary",
     "privacyPolicyLink": "privacy policy"
   },
   "footer": {
