@@ -8,6 +8,8 @@
             <span v-html="footer.privacy2"></span></router-link
           >.<br />
           <span v-html="footer.copyright"></span>
+          <br />
+          <span v-html="footer.code"></span>
         </b-col>
         <b-col class="footer-item d-flex col-12" sm="2">
           <b-button v-b-modal.refs class="btn-refs"
