@@ -9,7 +9,7 @@ export const nuxtOptions = {
 export const options = {
   vueI18n: {},
   vueI18nLoader: false,
-  locales: [{"code":"en","name":"English","iso":"en-US","file":"en.json"}],
+  locales: [{"code":"en","name":"English","iso":"en-US","file":"en.json"},{"code":"fr","name":"Français","iso":"fr-FR","file":"fr.json"}],
   defaultLocale: "en",
   defaultDirection: "ltr",
   routesNameSeparator: "___",
@@ -30,10 +30,11 @@ export const options = {
   beforeLanguageSwitch: () => null,
   onBeforeLanguageSwitch: () => {},
   onLanguageSwitched: () => null,
-  normalizedLocales: [{"code":"en","name":"English","iso":"en-US","file":"en.json"}],
-  localeCodes: ["en"],
+  normalizedLocales: [{"code":"en","name":"English","iso":"en-US","file":"en.json"},{"code":"fr","name":"Français","iso":"fr-FR","file":"fr.json"}],
+  localeCodes: ["en","fr"],
 }
 
 export const localeMessages = {
   'en.json': () => import('../../static/localization/en.json' /* webpackChunkName: "lang-en.json" */),
+  'fr.json': () => import('../../static/localization/fr.json' /* webpackChunkName: "lang-fr.json" */),
 }

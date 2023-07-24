@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'RSS Training Tool',
+    title: 'RSS Training Tool • Outil de formation RSS',
     htmlAttrs: {
       lang: 'en',
     },
@@ -72,7 +72,7 @@ export default {
     langDir: './static/localization/',
     locales: [
       { code: 'en', name: 'English', iso: 'en-US', file: 'en.json' },
-      //{ code: 'fr', name: 'Français', iso: 'fr-FR', file: 'fr.json' },
+      { code: 'fr', name: 'Français', iso: 'fr-FR', file: 'fr.json' },
     ],
   },
 

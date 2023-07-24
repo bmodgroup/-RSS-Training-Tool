@@ -4,7 +4,7 @@
       <b-row>
         <b-col>
           <b-nav vertical>
-            <!-- <div class="lang-selector">
+            <div class="lang-selector">
               {{ nav.setLanguage }}:
               <a
                 href="#"
@@ -18,7 +18,7 @@
                 @click="$i18n.setLocale('fr')"
                 >Français</a
               >
-            </div> -->
+            </div>
             <NuxtLink to="/" class="link" exact>{{ nav.home }}</NuxtLink>
             <NuxtLink to="/about" class="link">{{ nav.about }}</NuxtLink>
             <NuxtLink
@@ -42,20 +42,20 @@
 export default {
   computed: {
     nav() {
-      return this.$t('nav')
+      return this.$t("nav");
     },
     isRouteActive() {
       if (
-        this.$nuxt.$route.path === '/tutorial' ||
-        this.$nuxt.$route.path === '/practice'
+        this.$nuxt.$route.path === "/tutorial" ||
+        this.$nuxt.$route.path === "/practice"
       ) {
-        return true
+        return true;
       } else {
-        return false
+        return false;
       }
     },
   },
-}
+};
 </script>
 
 <style lang="scss">
