@@ -6,7 +6,7 @@
       "yesalt": "Professionnel de la santé canadien"
     },
     "heading": "Outil de formation RSS",
-    "subheading": "Un outil pédagogique pour apprendre à évaluer avec précision les patients atteints de rachitisme hypophosphatémique lié à l’X (XLH) à l’aide de l’échelle de gravité du rachitisme (RSS pour Rickets Severity Score).<sup>1</sup>",
+    "subheading": "Un outil pédagogique pour apprendre à évaluer les patients atteints de rachitisme hypophosphatémique lié à l’X (XLH) à l’aide de l’échelle de gravité du rachitisme (RSS pour Rickets Severity Score).<sup>1</sup>",
     "audioClips": "Avec des clips audio et un didacticiel guidé.",
     "playPause": "Faites jouer et mettez sur pause les enregistrements en appuyant sur l’icône audio.",
     "homeNav": {
@@ -429,14 +429,20 @@
     "leftKneeFeedback": "Genou gauche avec rétroaction"
   },
   "header": {
-    "banner": "Pour les professionnels de la santé canadiens"
+    "banner": "Pour les professionnels de la santé canadiens",
+    "disclaimer": "Ce site web est destiné uniquement à des fins éducatives et de formation. Ce site web ne recueille aucun renseignement personnel et aucun témoin ne sera placé. Pour en savoir plus sur les pratiques en matière de confidentialité de Kyowa Kirin, veuillez consulter la ",
+    "disclaimerEducational1": "Cet outil a été développé de manière indépendante par un tiers et est publié à des fins éducatives et de formation. Il présente la méthode décrite dans toutes les références. Veuillez consulter la liste complète des références dans la section ",
+    "disclaimerEducational2": ". L’entreprise n’assume aucune responsabilité quant à l’outil ou son utilisation.",
+    "referenceLink": "références et glossaire",
+    "privacyPolicyLink": "politique&nbsp;de&nbsp;confidentialité"
   },
   "footer": {
-    "privacy1": "L’utilisation de ce site Internet est régie par notre",
+    "privacy1": "L’utilisation de ce site Web est régie par notre",
     "privacy2": "politique de confidentialité",
-    "copyright": "© 2023 Kyowa Kirin Canada, Inc. All rights reserved.",
+    "copyright": "© 2023 Kyowa Kirin Canada, Inc. Tous droits réservés.",
+    "code": "COMM-CA-RDS-0011&nbsp;&nbsp;Juillet 2023",
     "refsGlossary": "Références et glossaire",
-    "contact": "Nous contacter",
+    "contact": "Contactez-nous",
     "glossary": "Glossaire",
     "references": "Références"
   },
@@ -447,5 +453,55 @@
     "cases": "Cas cliniques",
     "calculator": "Calculateur RSS",
     "setLanguage": "Définir la langue"
+  },
+  "privacyPolicy": {
+    "pageTitle1": "POLITIQUE DE CONFIDENTIALITÉ",
+    "pageTitle2": "Dernière mise à jour : 15 mars 2023",
+    "pageSubTitle": "Lisez attentivement ce qui suit avant d’utiliser ce site Web",
+    "p1": "Kyowa Kirin Canada, Inc., société dont le siège social se trouve au 550 Burrard Street, Suite 2300, Bentall 5, Vancouver (Colombie-Britannique) V6C 2B5, respecte la vie privée des visiteurs de ses sites Web<sup>†</sup>.",
+    "p2": "La présente Politique de confidentialité décrit les pratiques de Kyowa Kirin entourant la collecte, l’utilisation et la communication de renseignements personnels par le présent site Web (le « site Web ») ainsi que vos droits par rapport à ces renseignements. Kyowa Kirin Canada, Inc. est une filiale à part entière de Kyowa Kirin Inc. (une société des États-Unis), dont la société mère est Kyowa Kirin Co., Ltd. (Japon). Il se peut que Kyowa Kirin Canada, Inc. communique vos renseignements personnels à sa société mère et aux membres de son groupe, dont Kyowa Kirin Inc., située à Novato (Californie), afin de vous fournir nos produits et services, de même qu’aux fins énoncées dans la présente Politique de confidentialité. Aux fins de la présente Politique de confidentialité, Kyowa Kirin Canada, Inc., sa société mère et les membres de son groupe sont collectivement appelés « Kyowa Kirin ».",
+    "p3": "En continuant d’utiliser le site Web, vous reconnaissez que Kyowa Kirin traite vos renseignements personnels de la façon décrite à la présente Politique de confidentialité. Veuillez la lire au complet avant d’utiliser ce site Web ou de transmettre des renseignements personnels à Kyowa Kirin au moyen de celui-ci.",
+    "h3_1": "Collecte et utilisation de renseignements",
+    "p4": "Lorsque vous transmettez volontairement vos renseignements personnels (y compris votre nom, votre adresse, votre numéro de téléphone, votre adresse courriel et votre lien avec un produit ou un programme donné de Kyowa Kirin), Kyowa Kirin les enregistre et les traite dans une base de données numérique. Elle peut ensuite les utiliser pour communiquer avec vous afin d’obtenir les précisions éventuellement nécessaires pour répondre à votre demande, améliorer ce site Web ou vous transmettre l’information ou les communications que vous avez demandées, ou encore des renseignements supplémentaires qui, selon elle, pourraient vous intéresser. Kyowa Kirin peut également utiliser ces renseignements au sein de son organisation pour la réalisation d’études et d’analyses de commercialisation à usage interne, conformément au droit applicable.",
+    "p5": "De plus, notre site Web utilise des témoins et d’autres technologies de suivi pour recueillir automatiquement des renseignements sur l’utilisation que vous faites de notre site Web. Pour en savoir plus sur la façon dont nous et des tiers utilisons des témoins sur nos sites Web, veuillez consulter notre Politique sur les témoins.",
+    "p6": "Nous combinons l’information que nous recevons lorsque vous visitez notre site Web avec d’autres renseignements que nous recueillons, dont ceux reçus de vous et tirés de sources publiques et commercialement disponibles, dans la mesure où le permet le droit applicable.",
+    "p7": "Kyowa Kirin recueille, utilise et communique les renseignements que vous fournissez sur ce site Web aux fins décrites ci-dessus, ainsi qu’aux suivantes :",
+    "li_1": "Personnaliser les communications que vous envoie Kyowa Kirin et améliorer continuellement les services de<br />celle-ci;",
+    "li_2": "Respecter les obligations juridiques de Kyowa Kirin, ainsi que faire toute autre chose permise ou exigée par le droit applicable.",
+    "p8": "En nous fournissant vos renseignements par l’entremise du site Web aux fins décrites dans la présente Politique, vous consentez à ce que nous les recueillions, les utilisions et les communiquions. Vous pouvez retirer votre consentement à la collecte, l’utilisation et la communication ultérieures de vos renseignements personnels à tout moment, sous réserve de restrictions légales et contractuelles et du droit applicable. Notez que s’il nous manque certains renseignements ou que vous retirez votre consentement ultérieurement, nous pourrions, dans certains cas, ne pas être en mesure de respecter nos obligations ou de vous fournir les services que vous nous demandez. Nous vous indiquerons, s’il y a lieu, les conséquences de ne pas fournir certains renseignements.",
+    "h3_2": "Communication de renseignements",
+    "p9": "Nous tenons à garder votre confiance et souhaitons que vous compreniez quand et à qui nous pouvons communiquer les renseignements que nous recueillons. Nous communiquons vos renseignements personnels aux tiers suivants :",
+    "li_3": "La société mère et les membres du groupe de Kyowa Kirin Canada, Inc. énoncés dans la présente Politique†, aux fins décrites aux présentes et pour nous aider à vous fournir nos produits et services. Notre société mère et les membres de notre groupe se trouvent hors du Québec et du Canada. Il se peut donc que les forces policières et d’autres autorités d’États étrangers, moyennant une demande légitime à cette fin, obtiennent accès à vos renseignements personnels.",
+    "li_4": "Les vendeurs et fournisseurs de services tiers de Kyowa Kirin, lesquels peuvent se trouver hors du Québec et du Canada. Nous pouvons communiquer vos renseignements aux vendeurs et fournisseurs de services tiers qui nous aident relativement à des services spécialisés, notamment la facturation, le traitement de paiements, le service à la clientèle, l’envoi de courriels, l’analytique d’affaires, la commercialisation, la publicité, le suivi du rendement, l’hébergement et le traitement d’information. Le cas échéant, il se peut que les forces policières et d’autres autorités d’États étrangers, moyennant une demande légitime à cette fin, obtiennent accès à vos renseignements personnels.",
+    "li_5": "Transferts d’entreprises. Conformément au droit applicable, il se peut que nous communiquions vos renseignements dans le cadre d’une opération commerciale achevée ou projetée, par exemple la vente partielle ou totale de Kyowa Kirin, une fusion ou une vente d’actifs, de même que dans l’éventualité peu probable d’une faillite.",
+    "li_6": "Fins juridiques. Il se peut que nous communiquions des renseignements en réponse à une assignation à comparaître, à une ordonnance judiciaire, à un acte de procédure judiciaire, à une demande des forces de l’ordre, à une demande en justice ou à une enquête gouvernementale dans la mesure où le permet ou l’exige le droit applicable ainsi que pour protéger et défendre les droits, les intérêts, la santé et la sécurité de Kyowa Kirin, des membres de son groupe, de ses utilisateurs et du public.",
+    "li_7": "Avec votre consentement ou suivant vos instructions. Nous pouvons communiquer des renseignements à toute autre fin énoncée lorsque nous les recueillons, ou encore avec votre consentement ou suivant vos instructions. Si vous choisissez de publier des renseignements sous forme de commentaires publics, le public y aura accès.",
+    "p10": "Il se peut en outre que Kyowa Kirin communique des renseignements statistiques et autres sur ses utilisateurs, sous une forme agrégée et ne permettant pas d’identifier une personne, à des tiers dans un but commercialement légitime, par exemple un objectif d’affaires, sans toutefois vous identifier ou identifier qui que ce soit d’autre.",
+    "h3_3": "Transferts de renseignements internationaux",
+    "p11": "Comme il est mentionné ci-dessus, Kyowa Kirin Canada, Inc. peut transmettre vos renseignements personnels aux membres de son groupe et fournisseurs de services tiers situés hors du Québec et du Canada. Votre utilisation de notre site Web et de nos Services suppose le transfert, le stockage et le traitement de ces renseignements aux États-Unis et ailleurs. Kyowa Kirin ne transfère vos renseignements personnels à un tiers ou outremer que si elle est convaincue qu’un niveau de protection adéquat est en place afin de protéger l’intégrité et la sécurité de tout renseignement traité, conformément aux lois applicables en matière de protection des données et de la vie privée.",
+    "h3_4": "Vos droits",
+    "p12": "Conformément au droit applicable et selon votre province de résidence, vous pourriez avoir le droit : d’accéder à vos renseignements ou d’en demander la correction; d’obtenir de l’information sur le traitement que nous faisons de vos renseignements et notre gouvernance des données; de demander l’élimination et la portabilité de vos renseignements; de retirer votre consentement à l’utilisation de vos renseignements personnels à des fins de commercialisation secondaire, de même qu’à leur collecte, à leur utilisation et à leur communication ultérieures; ou de demander à ne plus recevoir de messages électroniques commerciaux de notre part (en communiquant avec nous ou en suivant les instructions prévues dans ces courriels). Ces demandes devraient être présentées par écrit à l’adresse prévue à la section « Coordonnées » ci-dessous.",
+    "p13": "Vous avez en outre le droit de porter plainte auprès du commissaire à la vie privée fédéral ou provincial compétent.",
+    "h3_5": "Sécurité",
+    "p14": "Kyowa Kirin appliquera des mesures de sécurité techniques, administratives et physiques raisonnables et appropriées conçues pour protéger les renseignements recueillis au moyen de ses sites Web contre les pertes, les perturbations, les mauvaises utilisations, les accès non autorisés, la communication, les modifications et la destruction. De plus, elle maintient également en place des procédures raisonnables pour faire en sorte que ces données soient fiables pour l’usage auquel elles sont destinées et qu’elles soient exactes, complètes et actuelles, et elle cherche à faire en sorte que ses fournisseurs de services fassent de même. Soyez toutefois conscients que la transmission de données sur le Web présente toujours certains risques. Nous ne pouvons garantir que notre base de données est parfaitement à l’abri des attaques illicites ou du piratage.",
+    "h3_6": "Stockage de données",
+    "p15": "Kyowa Kirin conservera vos renseignements personnels pendant une période raisonnable nous permettant de communiquer avec vous, de vous fournir les services que vous demandez, de tenir des registres commerciaux à des fins d’audit, de satisfaire aux exigences de tenue de dossier qui lui incombent en vertu de la loi, d’intenter des recours en justice ou se défendre si on en intente contre elle et de traiter vos questions et vos plaintes. Kyowa Kirin conserve vos renseignements personnels aux États-Unis, dans les locaux de p360, notre fournisseur de services infonuagiques, situés dans l’État du New Jersey.",
+    "h3_7": "Liens menant à des sites Web tiers",
+    "p16": "Pour la commodité de vos visiteurs, nos sites Web contiennent actuellement des liens vers d’autres sites Web qui, n’appartenant pas à Kyowa Kirin, présentent néanmoins des renseignements que nous jugeons utiles. Ces liens ne sauraient constituer une approbation par Kyowa Kirin de ces autres sites Web, de leur contenu ou des personnes et entités qui y sont associées. La présente Politique de confidentialité ne s’applique pas à ces sites Web. Communiquez avec leurs administrateurs directement pour en savoir plus sur leurs politiques et accords de confidentialité et leurs procédures de collecte et de diffusion des données.",
+    "p17": "Veuillez noter que les sites Web tiers auxquels mène un lien, mais qui n’appartiennent pas à Kyowa Kirin pourraient eux aussi faire usage de témoins. Kyowa Kirin n’est pas en mesure de contrôler l’usage de ces témoins. Nous tenons par ailleurs à vous informer que lorsque vous passez du présent site Web à un autre, le site Web d’arrivée pourrait être en mesure d’établir que vous arrivez d’un site Web de Kyowa Kirin. Si ce n’est pas ce que vous souhaitez, nous vous recommandons de ne pas utiliser les liens fournis sur notre Site Web. Si vous avez des questions sur l’utilisation de témoins d’un site Web tiers, vous devriez communiquer directement avec les administrateurs de celui-ci.",
+    "h3_8": "Coordonnées",
+    "p18": "Si vous avez des questions, des commentaires ou des préoccupations quant à la façon dont vos renseignements personnels sont traités sur le présent site Web, vous pouvez communiquer avec nous à l’adresse suivante :",
+    "p19": "Kyowa Kirin Canada, Inc.<br />550 Burrard Street, Suite 2300, Bentall 5,<br />Vancouver (Colombie-Britannique) V6C 2B5",
+    "p20_1": "Vous pouvez également communiquer avec notre avocat en matière commerciale et de protection de la vie privée, qui est également notre agent de protection des données et de la vie privée, par courriel au ",
+    "p20_2": " de même que par la poste, à l’adresse indiquée ci-dessus. Prière d’adresser votre correspondance à l’attention de l’agent de protection des données.",
+    "h3_9": "Modifications",
+    "p21": "Kyowa Kirin peut modifier la présente politique à tout moment. Vous pourriez donc juger utile de la consulter à chaque visite de notre site Web.",
+    "p22": "Kyowa Kirin Canada, Inc. est une filiale à part entière de Kyowa Kirin Inc. (une société des États-Unis), dont la société mère est Kyowa Kirin Co., Ltd. (Japon). Il se peut que Kyowa Kirin Canada, Inc. communique vos renseignements personnels à sa société mère et aux membres de son groupe, dont Kyowa Kirin Inc., située à Novato (Californie), afin de vous fournir nos produits et services, de même qu’aux fins énoncées dans la présente Politique de confidentialité. Aux fins de la présente Politique de confidentialité, Kyowa Kirin Canada, Inc., sa société mère et les membres de son groupe sont collectivement appelés « Kyowa Kirin »."
+  },
+  "contactUs": {
+    "pageTitle": "Contactez-nous",
+    "pageSubTitle": "Comment communiquer avec nous :  ",
+    "address": "Kyowa Kirin Canada, Inc.,<br />à l’attention du  Service juridique,<br />550 Burrard Street, Suite 2300, Bentall 5,<br />Vancouver (Colombie-Britannique) V6C 2B5"
   }
+  
 }

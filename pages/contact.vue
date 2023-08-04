@@ -6,14 +6,9 @@
         <b-col sm="12" class="d-flex flex-column justify-content-between">
           <b-row>
             <b-col>
-              <h1 class="section-header">Contact Us</h1>
-              <h2>How to Contact Us:</h2>
-              <p>
-                Kyowa Kirin Canada, Inc.<br />
-                Attention: Legal Department,<br />
-                550 Burrard Street, Suite 2300, Bentall 5,<br />
-                Vancouver, BC&nbsp;&nbsp;V6C 2B5
-              </p>
+              <h1 v-html="contactUs.pageTitle" class="section-header" />
+              <h2 v-html="contactUs.pageSubTitle" />
+              <p v-html="contactUs.address" />
             </b-col>
           </b-row>
         </b-col>
@@ -23,7 +18,15 @@
 </template>
 
 <script>
-export default {};
+export default {
+  name: "Contact",
+
+  computed: {
+    contactUs() {
+      return this.$t("contactUs");
+    },
+  },
+};
 </script>
 
 <style lang="scss" scoped>

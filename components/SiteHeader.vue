@@ -9,9 +9,7 @@
         </router-link>
       </p>
       <p class="disclaimer">
-        <span v-html="header.disclaimerEducational1"></span>
-        <a v-b-modal.refs class="btn-refs">{{ header.referenceLink }}</a>
-        <span v-html="header.disclaimerEducational2"></span>
+        <span v-html="header.disclaimerEducational1"></span><a v-b-modal.refs class="btn-refs">{{ header.referenceLink }}</a><span v-html="header.disclaimerEducational2"></span>
       </p>
     </div>
     <b-navbar class="site-header">
