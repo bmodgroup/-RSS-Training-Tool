@@ -59,26 +59,12 @@
             <b-row class="refs">
               <h2 v-html="footer.references"></h2>
               <ol>
+                <li v-html="footer.ref1" />
                 <li>
-                  Thacher TD, Pettifor JM, Tebben PJ, et al. Rickets severity
-                  predicts clinical outcomes in children with X-linked
-                  hypophosphatemia: Utility of the radiographic Rickets Severity
-                  Score. Bone. 2019;122(February):76-81.
-                  doi:10.1016/j.bone.2019.02.010
+                  <a href="pdfs/Thacher_J_Tropical_Pediatrics_2000.pdf" target="_blank"><span v-html="footer.ref2" /></a>
                 </li>
                 <li>
-                  <a
-                    href="pdfs/Thacher_J_Tropical_Pediatrics_2000.pdf"
-                    target="_blank"
-                    >Thacher, TD, Fischer PR, Pettifor JM, et al. Radiographic
-                    scoring method for the assessment of the severity of
-                    nutritional rickets. Journal of Tropical Pediatrics. 2000;
-                    46(3):132-139. doi:10.1093/tropej/46.3.132</a
-                  >
-                </li>
-                <li>
-                  National Center for Biotechnology Information. MedGen.
-                  Metaphyseal cupping. Accessed March 16, 2021.
+                  <span v-html="footer.ref3" />
                   <a
                     href="https://www.ncbi.nlm.nih.gov/medgen/323062"
                     target="_blank"
@@ -86,8 +72,7 @@
                   >
                 </li>
                 <li>
-                  National Center for Biotechnology Information. MedGen.
-                  Metaphyseal irregularity. Accessed March 16, 2021.
+                  <span v-html="footer.ref4" />
                   <a
                     href="https://www.ncbi.nlm.nih.gov/medgen/?term=metaphyseal+fraying"
                     target="_blank"
@@ -95,8 +80,7 @@
                   >
                 </li>
                 <li>
-                  Department of Radiology St. Vincent’s University Hospital.
-                  Radiological descriptive terms. Accessed March 31, 2021.
+                  <span v-html="footer.ref5" />
                   <a
                     href="http://www.svuhradiology.ie/diagnostic-imaging/radiological-descriptive-terms/"
                     target="_blank"

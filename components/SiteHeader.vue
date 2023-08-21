@@ -5,8 +5,8 @@
       <p class="disclaimer">
         <span v-html="header.disclaimer"></span>
         <router-link to="privacy">
-          <span v-html="header.privacyPolicyLink"></span>.
-        </router-link>
+          <span v-html="header.privacyPolicyLink"></span>
+        </router-link>.
       </p>
       <p class="disclaimer">
         <span v-html="header.disclaimerEducational1"></span><a v-b-modal.refs class="btn-refs">{{ header.referenceLink }}</a><span v-html="header.disclaimerEducational2"></span>
